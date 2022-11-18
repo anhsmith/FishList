@@ -1014,4 +1014,4 @@ Labridae	Notolabrus	cinctus	GPF		30
 Cheilodactylidae	Nemadactylus	macropterus	TAR		70
 Sebastidae	Helicolenus	percoides	37287001		47
 Hemerocoetidae	Hemerocoetes	monopterygius	OPA		28
-Labridae	Notolabrus	celidotus	SPO		24
+Labridae	Notolabrus	celidotus	STY		24

@@ -1015,3 +1015,17 @@ Cheilodactylidae	Nemadactylus	macropterus	TAR		70
 Sebastidae	Helicolenus	percoides	37287001		47
 Hemerocoetidae	Hemerocoetes	monopterygius	OPA		28
 Labridae	Notolabrus	celidotus	STY		24
+Pinguipedidae	Parapercis	colias	BCO		45
+Serranidae	Caesioperca	lepidoptera	BPE		30
+Myxinidae	Eptatretus	cirrhatus	HAG		97
+Triakidae	Galeorhinus	galeus	SCH		193
+Triakidae	Mustelus	lenticulatus	SPO		125
+Squalidae	Squalus	acanthias	SPD		160
+Labridae	Pseudolabrus	miles	SPF		27
+Callanthiidae	Callanthias	allporti	SPP		30
+Callanthiidae	Callanthias	australis	NSP		49
+Polyprionidae	Polyprion	oxygeneios	HAP		160
+Hexanchidae	Notorynchus	cepedianus	SEV		300
+Triglidae	Chelidonichthys	kumu	GUR		60
+Arripidae	Arripis	trutta	KAH		89
+Scyliorhinidae	Cephaloscyllium	isabella	CAR		160

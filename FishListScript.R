@@ -20,7 +20,7 @@ tab <- readxl::read_excel(temp_file, sheet = "SpeciesInfo", col_names = T) |>
          Genus,
          Species,
          CommonName = commonname,
-         Code = `...1`,
+         Code,
          Size = `Size(mm)`,
          MinDepth,
          MaxDepth,

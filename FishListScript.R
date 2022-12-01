@@ -2,7 +2,7 @@
 library(rfishbase)
 Sys.setenv(FISHBASE_API="sealifebase")
 
-library(dplyr)
+library(tidyverse)
 
 # Download to tempfile
 github_link <- "https://github.com/anhsmith/DuffyNZReefFish/raw/master/DuffyNZReefFishMASTER.xlsx"
@@ -28,7 +28,13 @@ tab <- readxl::read_excel(temp_file, sheet = "SpeciesInfo", col_names = T) |>
          TaxonomicNotes )
 
 # Write
-write.table(tab, file = "MasseySpeciesList.txt", quote = F, row.names = F)
+
+
+
+write.table(tab, sep="\t",
+            file = "MasseySpeciesList.txt",
+            quote = F,
+            row.names = F)
 
 # # Check names
 # vnfb <- validate_names(tab$genusspecies, server = "fishbase")

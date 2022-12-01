@@ -4,10 +4,14 @@ Carcharhinidae	Carcharhinus	brachyurus	Bronze whaler shark	Car.bra	3300	0	360	NA
 Carcharhinidae	Carcharhinus	galapagensis	Galapagos shark	Car.gal	3700	1	286	NA
 Scyliorhinidae	Cephaloscyllium	isabellum	Carpet shark	Cep.isa	905	5	690	Changed from C. isabella; source: Te Papa; fishbase says isabella
 Triakidae	Galeorhinus	galeus	School shark	Gal.gal	1750	0	1100	NA
+Triakidae	Mustelus	lenticulatus	Rig	Mus.len	NA	NA	NA	NA
+Hexanchidae	Notorynchus	cepedianus	Broadsnout sevengill	Not.cep	NA	NA	NA	NA
 Dasyatidae	Bathytoshia	brevicaudata	Short-tailed stingray	Das.bre	4300	0	476	Changed from "Dasyatis brev"; source fishbase
 Dasyatidae	Bathytoshia	lata	Long-tailed stingray	Das.the	3300	0	440	Changed from "Dasyatis thetidis"; source fishbase
 Myliobatidae	Myliobatis	tenuicaudatus	Eagle ray	Myl.ten	1050	0	160	Corrected from "Myliobatus"
 Squalidae	Squalus	acanthias	Spiny dogfish	Squ.aca	1200	0	1460	NA
+Percophidae	Hemerocoetes	monopterygius	Opalfish	Hem.mon	NA	NA	NA	NA
+Polyprionidae	Polyprion	oxygeneios	Hapuku	Pol.oxy	NA	NA	NA	NA
 Congridae	Conger	verreauxi	Common conger eel	Con.ver	2000	NA	45	NA
 Congridae	Conger	wilsoni	Northern conger eel	Con.wil	904	NA	30	NA
 Muraenidae	Enchelycore	ramosa	Mosaic moray	Enc.ram	1800	NA	NA	NA
@@ -147,6 +151,7 @@ Scorpaenidae	Scorpaena	cardinalis	Northern scorpionfish/Red rock cod	Sco.car	500
 Scorpaenidae	Scorpaena	papillosa	Dwarf/red scorpionfish	Sco.pap	220	5	50	NA
 Scorpaenidae	Scorpaenodes	scaber	Pygmy scorpionfish	Sco.sca	120	3	30	NA
 Sebastidae	Helicolenus	percoides	Sea perch	Hel.per	430	50	750	NA
+Triglidae	Chelidonichthys	kumu	Bluefin gurnard	Che.kum	NA	NA	NA	NA
 Aulostomidae	Aulostomus	chinensis	Chinese trumpetfish	Aul.chi	760	3	122	NA
 Syngnathidae	Hippocampus	abdominalis	Seahorse	Hip.abd	210	0	104	NA
 Syngnathidae	Solegnathus	spinosissimus	Spiny sea dragon	Sol.spi	500	114	230	NA

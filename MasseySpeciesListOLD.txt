@@ -1,0 +1,1031 @@
+!Family	Genus	Species	CAAB	Min length	Max length
+Balistidae	Abalistes	filamentosus	37465089		325
+Balistidae	Abalistes	stellatus	37465011		600
+Pomacentridae	Abudefduf	bengalensis	37372003		180
+Pomacentridae	Abudefduf	septemfasciatus	37372010		230
+Pomacentridae	Abudefduf	sexfasciatus	37372011		190
+Pomacentridae	Abudefduf	sordidus	37372012		240
+Pomacentridae	Abudefduf	vaigiensis	37372013		200
+Serranidae	Acanthistius	pardalotus	37311132		
+Serranidae	Acanthistius	serratus	37311035		500
+Pomacentridae	Acanthochromis	polyacanthus	37372015		140
+Sparidae	Acanthopagrus	morrisoni	37353012		450
+Sparidae	Acanthopagrus	palmaris	37353014		
+Acanthuridae	Acanthurus	bariene	37437006		500
+Acanthuridae	Acanthurus	blochii	37437007		450
+Acanthuridae	Acanthurus	dussumieri	37437008		540
+Acanthuridae	Acanthurus	fowleri	37437044		450
+Acanthuridae	Acanthurus	grammoptilus	37437002		350
+Acanthuridae	Acanthurus	leucocheilus	37437053		450
+Acanthuridae	Acanthurus	lineatus	37437010		380
+Acanthuridae	Acanthurus	mata	37437011		500
+Acanthuridae	Acanthurus	nigricans	37437012		
+Acanthuridae	Acanthurus	nigricauda	37437013		400
+Acanthuridae	Acanthurus	nigrofuscus	37437014		210
+Acanthuridae	Acanthurus	olivaceus	37437016		350
+Acanthuridae	Acanthurus	pyroferus	37437017		290
+Acanthuridae	Acanthurus	thompsoni	37437018		270
+Acanthuridae	Acanthurus	triostegus	37437019		270
+Acanthuridae	Acanthurus	xanthopterus	37437020		700
+Monacanthidae	Acreichthys	tomentosus	37465042		120
+Serranidae	Aethaloperca	rogaa	37311134		600
+Myliobatidae	Aetobatus	ocellatus	37039003		1528
+Myliobatidae	Aetomylaeus	vespertilio	37039005		
+Albulidae	Albula	argentea	37055001		700
+Carangidae	Alectis	ciliaris	37337018		1500
+Carangidae	Alectis	indica	37337038		
+Carangidae	Alepes	apercna	37337010		295
+Carangidae	Alepes	vari	37337067		560
+Alopiidae	Alopias	pelagicus	37012003		4280
+Monacanthidae	Aluterus	monoceros	37465022		762
+Monacanthidae	Aluterus	scriptus	37465045		1100
+Monacanthidae	Amanses	scopas	37465046		200
+Gobiidae	Amblyeleotris	steinitzi	37428043		130
+Gobiidae	Amblyeleotris	wheeleri	37428044		100
+Pomacentridae	Amblyglyphidodon	aureus	37372016		130
+Pomacentridae	Amblyglyphidodon	batunai	37372141		100
+Pomacentridae	Amblyglyphidodon	curacao	37372017		110
+Pomacentridae	Amblyglyphidodon	leucogaster	37372018		130
+Gobiidae	Amblygobius	decussatus	37428046		
+Gobiidae	Amblygobius	nocturnus	37428047		100
+Gobiidae	Amblygobius	phalaena	37428048		150
+Pomacentridae	Amblypomacentrus	breviceps	37372019		85
+Terapontidae	Amniataba	caudavittata	37321007		300
+Pomacentridae	Amphiprion	clarkii	37372007		150
+Pomacentridae	Amphiprion	melanopus	37372024		120
+Pomacentridae	Amphiprion	perideraion	37372027		100
+Pomacentridae	Amphiprion	polymnus	37372138		
+Pomacentridae	Amphiprion	rubrocinctus	37372028		120
+Monacanthidae	Anacanthus	barbatus	37465010		350
+Labridae	Anampses	caeruleopunctatus	37384045		420
+Labridae	Anampses	geographicus	37384048		310
+Labridae	Anampses	lennardi	37384016		280
+Labridae	Anampses	melanurus	37384180		120
+Labridae	Anampses	meleagrides	37384049		220
+Labridae	Anampses	neoguinaicus	37384050		200
+Labridae	Anampses	twistii	37384051		180
+Aracanidae	Anoplocapros	lenticularis	37466010		330
+Antennariidae	Antennarius	hispidus	37210008		
+Serranidae	Anyperodon	leucogrammicus	37311085		650
+Lutjanidae	Aphareus	furca	37346036		700
+Lutjanidae	Aphareus	rutilans	37346001		1100
+Apogonidae	Apogon	crassiceps	37327051		
+Apogonidae	Apogon	semiornatus	37327074		75
+Pomacanthidae	Apolemichthys	trimaculatus	37365016		260
+Lutjanidae	Aprion	virescens	37346027		1120
+Rhinobatidae	Aptychotrema	vincentiana	37027001		790
+Sparidae	Argyrops	spinifer	37353006		700
+Tetraodontidae	Arothron	caeruleopunctatus	37467066		800
+Tetraodontidae	Arothron	hispidus	37467033		500
+Tetraodontidae	Arothron	immaculatus	37467034		300
+Tetraodontidae	Arothron	manilensis	37467020		310
+Tetraodontidae	Arothron	mappa	37467035		650
+Tetraodontidae	Arothron	meleagris	37467064		500
+Tetraodontidae	Arothron	nigropunctatus	37467027		330
+Tetraodontidae	Arothron	reticularis	37467021		450
+Tetraodontidae	Arothron	stellatus	37467014		1200
+Blenniidae	Aspidontus	dussumieri	37408007		120
+Blenniidae	Aspidontus	taeniatus	37408008		115
+Scyliorhinidae	Atelomycterus	macleayi	37015028		600
+Carangidae	Atule	mate	37337024		300
+Aulostomidae	Aulostomus	chinensis	37277001		800
+Leiognathidae	Aurigequula	longispina	37341004		
+Labridae	Austrolabrus	maculatus	37384025		125.5
+Balistidae	Balistapus	undulatus	37465047		300
+Balistidae	Balistoides	conspicillum	37465031		500
+Balistidae	Balistoides	viridescens	37465048		750
+Dasyatidae	Bathytoshia	brevicaudata	37035001		
+Berycidae	Beryx	splendens	37258002		700
+Labridae	Bodianus	anthioides	37384052		
+Labridae	Bodianus	axillaris	37384053		200
+Labridae	Bodianus	bilunulatus	37384054		550
+Labridae	Bodianus	bimaculatus	37384055		59
+Labridae	Bodianus	dictynna	37384199		144
+Labridae	Bodianus	frenchii	37384057		450
+Labridae	Bodianus	mesothorax	37384060		250
+Labridae	Bodianus	perditio	37384007		800
+Labridae	Bodianus	solatus	37384201		350
+Labridae	Bolbometopon	muricatum	37386004		
+Bothidae	Bothus	mancus	37460047		510
+Bothidae	Bothus	pantherinus	37460048		
+Caesionidae	Caesio	caerulaurea	37346024		350
+Caesionidae	Caesio	cuning	37346018		600
+Caesionidae	Caesio	lunaris	37346061		400
+Caesionidae	Caesio	teres	37346037		400
+Scaridae	Calotomus	carolinus	37386005		540
+Monacanthidae	Cantherhines	dumerilii	37465050		380
+Monacanthidae	Cantherhines	fronticinctus	37465041		250
+Monacanthidae	Cantherhines	pardalis	37465051		250
+Tetraodontidae	Canthigaster	axiologus	37467013		101
+Tetraodontidae	Canthigaster	bennetti	37467037		
+Tetraodontidae	Canthigaster	rivulata	37467018		180
+Tetraodontidae	Canthigaster	valentini	37467043		110
+Carangidae	Carangoides	caeruleopinnatus	37337021		410
+Carangidae	Carangoides	chrysophrys	37337011		720
+Carangidae	Carangoides	equula	37337013		500
+Carangidae	Carangoides	ferdau	37337068		700
+Carangidae	Carangoides	fulvoguttatus	37337037		1200
+Carangidae	Carangoides	gymnostethus	37337022		900
+Carangidae	Carangoides	hedlandensis	37337042		320
+Carangidae	Carangoides	malabaricus	37337005		600
+Carangidae	Carangoides	oblongus	37337069		460
+Carangidae	Carangoides	orthogrammus	37337057		750
+Carangidae	Carangoides	plagiotaenia	37337070		500
+Carangidae	Carangoides	talamparoides	37337043		
+Carangidae	Caranx	bucculentus	37337016		660
+Carangidae	Caranx	heberi	37337080		880
+Carangidae	Caranx	ignobilis	37337027		1700
+Carangidae	Caranx	lugubris	37337053		1000
+Carangidae	Caranx	melampygus	37337050		1170
+Carangidae	Caranx	papuensis	37337064		880
+Carangidae	Caranx	sexfasciatus	37337039		1200
+Carangidae	Caranx	tille	37337049		800
+Carcharhinidae	Carcharhinus	albimarginatus	37018027		3000
+Carcharhinidae	Carcharhinus	amblyrhynchoides	37018033		1610
+Carcharhinidae	Carcharhinus	amblyrhynchos	37018030		2550
+Carcharhinidae	Carcharhinus	amboinensis	37018026		2800
+Carcharhinidae	Carcharhinus	brachyurus	37018001		3250
+Carcharhinidae	Carcharhinus	brevipinna	37018023		3000
+Carcharhinidae	Carcharhinus	cautus	37018034		1500
+Carcharhinidae	Carcharhinus	coatesi	37018009		870
+Carcharhinidae	Carcharhinus	falciformis	37018008		3500
+Carcharhinidae	Carcharhinus	galapagensis	37018040		
+Carcharhinidae	Carcharhinus	leucas	37018021		3600
+Carcharhinidae	Carcharhinus	limbatus	37018039		2750
+Carcharhinidae	Carcharhinus	longimanus	37018032		
+Carcharhinidae	Carcharhinus	macloti	37018025		1100
+Carcharhinidae	Carcharhinus	melanopterus	37018036		2000
+Carcharhinidae	Carcharhinus	obscurus	37018003		4200
+Carcharhinidae	Carcharhinus	plumbeus	37018007		1800
+Carcharhinidae	Carcharhinus	sorrah	37018013		1600
+Carcharhinidae	Carcharhinus	tilstoni	37018014		2000
+Odontaspididae	Carcharias	taurus	37008001		3300
+Lamnidae	Carcharodon	carcharias	37010003		5410
+Centriscidae	Centriscus	scutatus	37280001		
+Berycidae	Centroberyx	australis	37258006		510
+Centrophoridae	Centrophorus	moluccensis	37020001		1000
+Pomacanthidae	Centropyge	bispinosa	37365023		100
+Pomacanthidae	Centropyge	eibli	37365024		
+Pomacanthidae	Centropyge	flavissima	37365026		
+Pomacanthidae	Centropyge	tibicen	37365031		190
+Pomacanthidae	Centropyge	vrolikii	37365032		120
+Serranidae	Cephalopholis	argus	37311082		600
+Serranidae	Cephalopholis	boenak	37311008		300
+Serranidae	Cephalopholis	cyanostigma	37311136		400
+Serranidae	Cephalopholis	formosa	37311137		
+Serranidae	Cephalopholis	leopardus	37311138		240
+Serranidae	Cephalopholis	microprion	37311139		250
+Serranidae	Cephalopholis	miniata	37311083		500
+Serranidae	Cephalopholis	nigripinnis	37311205		
+Serranidae	Cephalopholis	sexmaculata	37311140		500
+Serranidae	Cephalopholis	sonnerati	37311045		570
+Serranidae	Cephalopholis	spiloparaea	37311141		300
+Serranidae	Cephalopholis	urodeta	37311142		280
+Scyliorhinidae	Cephaloscyllium	speccum	37015033		680
+Scaridae	Cetoscarus	ocellatus	37386007		800
+Monacanthidae	Chaetodermis	penicilligerus	37465013		310
+Chaetodontidae	Chaetodon	adiergastos	37365033		200
+Chaetodontidae	Chaetodon	assarius	37365012		160
+Chaetodontidae	Chaetodon	aureofasciatus	37365013		150
+Chaetodontidae	Chaetodon	auriga	37365019		230
+Chaetodontidae	Chaetodon	baronessa	37365034		160
+Chaetodontidae	Chaetodon	bennetti	37365035		200
+Chaetodontidae	Chaetodon	citrinellus	37365036		130
+Chaetodontidae	Chaetodon	ephippium	37365037		300
+Chaetodontidae	Chaetodon	guttatissimus	37365091		120
+Chaetodontidae	Chaetodon	kleinii	37365040		150
+Chaetodontidae	Chaetodon	lineolatus	37365041		300
+Chaetodontidae	Chaetodon	lunula	37365042		200
+Chaetodontidae	Chaetodon	lunulatus	37365059		140
+Chaetodontidae	Chaetodon	meyeri	37365045		200
+Chaetodontidae	Chaetodon	ocellicaudus	37365046		150
+Chaetodontidae	Chaetodon	ornatissimus	37365047		200
+Chaetodontidae	Chaetodon	oxycephalus	37365048		250
+Chaetodontidae	Chaetodon	plebeius	37365050		150
+Chaetodontidae	Chaetodon	punctatofasciatus	37365051		120
+Chaetodontidae	Chaetodon	reticulatus	37365054		180
+Chaetodontidae	Chaetodon	speculum	37365056		180
+Chaetodontidae	Chaetodon	trifascialis	37365058		180
+Chaetodontidae	Chaetodon	trifasciatus	37365094		150
+Chaetodontidae	Chaetodon	ulietensis	37365060		150
+Chaetodontidae	Chaetodon	unimaculatus	37365061		200
+Chaetodontidae	Chaetodon	vagabundus	37365062		230
+Pomacanthidae	Chaetodontoplus	duboulayi	37365009		280
+Pomacanthidae	Chaetodontoplus	mesoleucus	37365083		180
+Pomacanthidae	Chaetodontoplus	personifer	37365008		350
+Chanidae	Chanos	chanos	37142001		1800
+Labridae	Cheilinus	chlorourus	37384064		450
+Labridae	Cheilinus	fasciatus	37384066		400
+Labridae	Cheilinus	oxycephalus	37384067		170
+Labridae	Cheilinus	trilobatus	37384044		450
+Labridae	Cheilinus	undulatus	37384038		2290
+Labridae	Cheilio	inermis	37384070		500
+Cheilodactylidae	Cheilodactylus	gibbosus	37377010		600
+Cheilodactylidae	Cheilodactylus	rubrolabiatus	37377012		
+Apogonidae	Cheilodipterus	intermedius	37327138		200
+Apogonidae	Cheilodipterus	macrodon	37327089		250
+Apogonidae	Cheilodipterus	quinquelineatus	37327090		
+Pomacentridae	Cheiloprion	labiatus	37372030		
+Chaetodontidae	Chelmon	marginalis	37365007		230
+Chaetodontidae	Chelmon	muelleri	37365015		205
+Chaetodontidae	Chelmonops	curiosus	37365066		260
+Diodontidae	Chilomycterus	reticulatus	37469014		697
+Hemiscylliidae	Chiloscyllium	punctatum	37013008		1320
+Scaridae	Chlorurus	bleekeri	37386011		490
+Scaridae	Chlorurus	capistratoides	37386041		400
+Scaridae	Chlorurus	microrhinos	37386020		700
+Scaridae	Chlorurus	rhakoura	37386037		442
+Scaridae	Chlorurus	sordidus	37386030		400
+Scaridae	Chlorurus	strongylocephalus	37386040		700
+Labridae	Choerodon	cauteroma	37384005		430
+Labridae	Choerodon	cephalotes	37384004		380
+Labridae	Choerodon	cyanodus	37384072		700
+Labridae	Choerodon	jordani	37384077		170
+Labridae	Choerodon	monostigma	37384008		250
+Labridae	Choerodon	rubescens	37384039		900
+Labridae	Choerodon	schoenleinii	37384010		1000
+Labridae	Choerodon	sugillatum	37384009		240
+Labridae	Choerodon	vitta	37384006		300
+Labridae	Choerodon	zamboangae	37384011		450
+Serranidae	Chromileptes	altivelis	37311044		700
+Pomacentridae	Chromis	alpha	37372033		
+Pomacentridae	Chromis	amboinensis	37372034		100
+Pomacentridae	Chromis	atripectoralis	37372036		120
+Pomacentridae	Chromis	atripes	37372037		
+Pomacentridae	Chromis	caudalis	37372142		75
+Pomacentridae	Chromis	cinerascens	37372039		130
+Pomacentridae	Chromis	fumea	37372004		100
+Pomacentridae	Chromis	lepidolepis	37372045		90
+Pomacentridae	Chromis	margaritifer	37372047		90
+Pomacentridae	Chromis	ternatensis	37372051		105
+Pomacentridae	Chromis	viridis	37372053		100
+Pomacentridae	Chromis	weberi	37372054		135
+Pomacentridae	Chromis	westaustralis	37372055		85
+Pomacentridae	Chromis	xanthochira	37372056		
+Pomacentridae	Chrysiptera	biocellata	37372058		125
+Pomacentridae	Chrysiptera	caeruleolineata	37372059		
+Pomacentridae	Chrysiptera	glauca	37372062		115
+Pomacentridae	Chrysiptera	rex	37372066		70
+Pomacentridae	Chrysiptera	rollandi	37372067		75
+Pomacentridae	Chrysiptera	unimaculata	37372072		100
+Sparidae	Chrysophrys	auratus	37353001		1300
+Labridae	Cirrhilabrus	cyanopleura	37384079		150
+Labridae	Cirrhilabrus	exquisitus	37384080		120
+Labridae	Cirrhilabrus	morrisoni	37384189		55
+Labridae	Cirrhilabrus	punctatus	37384083		130
+Labridae	Cirrhilabrus	temminckii	37384085		116
+Cirrhitidae	Cirrhitichthys	aprinus	37374001		125
+Cirrhitidae	Cirrhitichthys	falco	37374003		70
+Cirrhitidae	Cirrhitichthys	oxycephalus	37374004		100
+Blenniidae	Cirripectes	filamentosus	37408013		75
+Congridae	Conger	cinereus	37067015		1400
+Chaetodontidae	Coradion	altivelis	37365018		180
+Chaetodontidae	Coradion	chrysozonus	37365004		200
+Labridae	Coris	auricularis	37384088		400
+Labridae	Coris	aygula	37384090		1200
+Labridae	Coris	caudimacula	37384092		200
+Labridae	Coris	dorsomacula	37384093		380
+Labridae	Coris	gaimard	37384094		400
+Labridae	Coris	pictoides	37384096		150
+Gobiidae	Cryptocentrus	cinctus	37428098		
+Acanthuridae	Ctenochaetus	binotatus	37437021		220
+Acanthuridae	Ctenochaetus	cyanocheilus	37437023		160
+Acanthuridae	Ctenochaetus	striatus	37437022		260
+Scombridae	Cybiosarda	elegans	37441008		450
+Platycephalidae	Cymbacephalus	nematophthalmus	37296023		
+Cirrhitidae	Cyprinocirrhites	polyactis	37374006		150
+Exocoetidae	Cypselurus	angusticeps	37233024		
+Pomacentridae	Dascyllus	aruanus	37372073		100
+Pomacentridae	Dascyllus	melanurus	37372009		80
+Pomacentridae	Dascyllus	reticulatus	37372074		90
+Pomacentridae	Dascyllus	trimaculatus	37372075		140
+Dasyatidae	Dasyatis	thetidis	37035002		4000
+Centrophoridae	Deania	quadrispinosa	37020004		
+Carangidae	Decapterus	macarellus	37337055		460
+Carangidae	Decapterus	muroadsi	37337071		500
+Carangidae	Decapterus	russelli	37337023		450
+Sparidae	Dentex	spariformis	37353002		
+Haemulidae	Diagramma	pictum labiosum	37350003		
+Diodontidae	Diodon	holocanthus	37469005		500
+Diodontidae	Diodon	hystrix	37469015		910
+Diodontidae	Diodon	liturosus	37469016		650
+Serranidae	Diploprion	bifasciatum	37312002		250
+Labridae	Diproctacanthus	xanthurus	37384102		
+Pomacentridae	Dischistodus	darwiniensis	37372076		103
+Pomacentridae	Dischistodus	melanotus	37372077		160
+Pomacentridae	Dischistodus	perspicillatus	37372078		180
+Pomacentridae	Dischistodus	prosopotaenia	37372079		185
+Syngnathidae	Dunckerocampus	pessuliferus	37282108		160
+Echeneidae	Echeneis	naucrates	37336001		1100
+Muraenidae	Echidna	nebulosa	37060023		1000
+Blenniidae	Ecsenius	bicolor	37408022		110
+Blenniidae	Ecsenius	lineatus	37408025		90
+Blenniidae	Ecsenius	lividanalis	37408026		50
+Blenniidae	Ecsenius	midas	37408028		130
+Carangidae	Elagatis	bipinnulata	37337029		1800
+Elopidae	Elops	hawaiensis	37053001		1200
+Labridae	Epibulus	insidiator	37384104		540
+Serranidae	Epinephelides	armatus	37311100		560
+Epinephelidae	Epinephelus	amblycephalus	37311015		500
+Epinephelidae	Epinephelus	areolatus	37311009		470
+Epinephelidae	Epinephelus	bilobatus	37311062		400
+Epinephelidae	Epinephelus	bleekeri	37311041		760
+Epinephelidae	Epinephelus	chlorostigma	37311059		800
+Epinephelidae	Epinephelus	coioides	37311007		1200
+Epinephelidae	Epinephelus	corallicola	37311066		490
+Epinephelidae	Epinephelus	fasciatus	37311014		400
+Epinephelidae	Epinephelus	faveatus	37311208		
+Epinephelidae	Epinephelus	fuscoguttatus	37311021		1200
+Epinephelidae	Epinephelus	hexagonatus	37311064		
+Epinephelidae	Epinephelus	lanceolatus	37311061		2700
+Epinephelidae	Epinephelus	macrospilos	37311149		
+Epinephelidae	Epinephelus	maculatus	37311011		605
+Epinephelidae	Epinephelus	malabaricus	37311150		2340
+Epinephelidae	Epinephelus	melanostigma	37311065		
+Epinephelidae	Epinephelus	merra	37311063		320
+Epinephelidae	Epinephelus	morrhua	37311151		900
+Epinephelidae	Epinephelus	multinotatus	37311010		1000
+Epinephelidae	Epinephelus	octofasciatus	37311152		1300
+Epinephelidae	Epinephelus	ongus	37311069		
+Epinephelidae	Epinephelus	polyphekadion	37311047		900
+Epinephelidae	Epinephelus	quoyanus	37311040		400
+Epinephelidae	Epinephelus	rivulatus	37311022		450
+Epinephelidae	Epinephelus	sexfasciatus	37311017		400
+Epinephelidae	Epinephelus	stictus	37311018		330
+Epinephelidae	Epinephelus	tauvina	37311057		1000
+Epinephelidae	Epinephelus	tukula	37311068		2000
+Leiognathidae	Equulites	leuciscus	37341005		250
+Leiognathidae	Equulites	elongatus	37341011		
+Lutjanidae	Etelis	carbunculus	37346014		
+Monacanthidae	Eubalichthys	caeruleoguttatus	37465018		380
+Euclichthyidae	Euclichthys	polynemus	37224001		350
+Orectolobidae	Eucrossorhinus	dasypogon	37013011		3660
+Labridae	Eupetrichthys	angustipes	37384105		124
+Scombridae	Euthynnus	affinis	37441010		1000
+Tetraodontidae	Feroxodon	multistriatus	37467010		390
+Fistulariidae	Fistularia	commersonii	37278001		1600
+Fistulariidae	Fistularia	petimba	37278002		2000
+Chaetodontidae	Forcipiger	flavissimus	37365068		220
+Chaetodontidae	Forcipiger	longirostris	37365069		220
+Triakidae	Furgaleus	macki	37017003		1600
+Carcharhinidae	Galeocerdo	cuvier	37018022		7500
+Pomacanthidae	Genicanthus	lamarck	37365070		250
+Gerreidae	Gerres	filamentosus	37349003		
+Gerreidae	Gerres	oyena	37349004		300
+Gerreidae	Gerres	subfasciatus	37349005		200
+Glaucosomatidae	Glaucosoma	buergeri	37320001		550
+Glaucosomatidae	Glaucosoma	hebraicum	37320004		1220
+Glaucosomatidae	Glaucosoma	magnificum	37320002		320
+Glaucostegidae	Glaucostegus	typus	37027010		2700
+Carangidae	Gnathanodon	speciosus	37337012		1200
+Lethrinidae	Gnathodentex	aureolineatus	37351021		300
+Labridae	Gomphosus	varius	37384106		300
+Serranidae	Gracila	albomarginata	37311156		400
+Grammicolepididae	Grammicolepis	brachiusculus	37265001		640
+Microdesmidae	Gunnellichthys	curiosus	37435003		120
+Microdesmidae	Gunnellichthys	monostigma	37435004		
+Microdesmidae	Gunnellichthys	pleurotaenia	37435005		120
+Lethrinidae	Gymnocranius	elongatus	37351010		350
+Lethrinidae	Gymnocranius	grandoculis	37351005		800
+Lethrinidae	Gymnocranius	griseus	37351003		
+Scombridae	Gymnosarda	unicolor	37441029		2479.8
+Muraenidae	Gymnothorax	buroensis	37060032		
+Muraenidae	Gymnothorax	chilospilus	37060033		
+Muraenidae	Gymnothorax	cribroris	37060002		750
+Muraenidae	Gymnothorax	eurostus	37060034		600
+Muraenidae	Gymnothorax	favagineus	37060016		3000
+Muraenidae	Gymnothorax	fimbriatus	37060035		800
+Muraenidae	Gymnothorax	flavimarginatus	37060036		2400
+Muraenidae	Gymnothorax	javanicus	37060039		3000
+Muraenidae	Gymnothorax	meleagris	37060045		1200
+Muraenidae	Gymnothorax	minor	37060003		
+Muraenidae	Gymnothorax	nudivomer	37060047		1800
+Muraenidae	Gymnothorax	prasinus	37060006		915
+Muraenidae	Gymnothorax	rueppelliae	37060051		
+Muraenidae	Gymnothorax	thyrsoideus	37060010		660
+Muraenidae	Gymnothorax	undulatus	37060053		1500
+Muraenidae	Gymnothorax	woodwardi	37060054		
+Muraenidae	Gymnothorax	zonipectis	37060056		500
+Odacidae	Haletta	semifasciata	37385009		290
+Labridae	Halichoeres	argus	37384194		120
+Labridae	Halichoeres	biocellatus	37384107		120
+Labridae	Halichoeres	brownfieldi	37384108		150
+Labridae	Halichoeres	chloropterus	37384109		190
+Labridae	Halichoeres	chrysus	37384110		120
+Labridae	Halichoeres	claudia	37384119		
+Labridae	Halichoeres	hartzfeldii	37384191		
+Labridae	Halichoeres	hortulanus	37384112		270
+Labridae	Halichoeres	leucurus	37384187		130
+Labridae	Halichoeres	margaritaceus	37384113		125
+Labridae	Halichoeres	marginatus	37384114		180
+Labridae	Halichoeres	melanochir	37384115		180
+Labridae	Halichoeres	melanurus	37384032		120
+Labridae	Halichoeres	melasmapomus	37384116		
+Labridae	Halichoeres	nebulosus	37384118		120
+Labridae	Halichoeres	nigrescens	37384037		140
+Labridae	Halichoeres	trimaculatus	37384122		270
+Batrachoididae	Halophryne	diemensis	37205002		
+Hapalogenyidae	Hapalogenys	dampieriensis	37350027		300
+Tripterygiidae	Helcogramma	striatum	37415019		50
+Hemigaleidae	Hemigaleus	australiensis	37018020		1100
+Pomacentridae	Hemiglyphidodon	plagiometopon	37372081		180
+Labridae	Hemigymnus	fasciatus	37384124		300
+Labridae	Hemigymnus	melapterus	37384125		600
+Hemigaleidae	Hemipristis	elongata	37018011		2400
+Hemiscylliidae	Hemiscyllium	ocellatum	37013014		
+Hemiscylliidae	Hemiscyllium	trispeculare	37013015		790
+Chaetodontidae	Hemitaurichthys	polylepis	37365074		180
+Triakidae	Hemitriakis	falcata	37017009		800
+Chaetodontidae	Heniochus	acuminatus	37365011		250
+Chaetodontidae	Heniochus	chrysostomus	37365075		180
+Chaetodontidae	Heniochus	diphreutes	37365005		210
+Chaetodontidae	Heniochus	monoceros	37365076		240
+Chaetodontidae	Heniochus	singularius	37365077		300
+Chaetodontidae	Heniochus	varius	37365078		190
+Hexanchidae	Heptranchias	perlo	37005001		
+Clupeidae	Herklotsichthys	lippa	37085008		
+Heterodontidae	Heterodontus	portusjacksoni	37007001		1650
+Priacanthidae	Heteropriacanthus	cruentatus	37326008		507
+Odacidae	Heteroscarus	acroptilus	37385010		240
+Hexanchidae	Hexanchus	nakamurai	37005004		1800
+Dasyatidae	Himantura	leoparda	37035026		
+Dasyatidae	Himantura	uarnak	37035003		2000
+Scaridae	Hipposcarus	longiceps	37386008		600
+Labridae	Hologymnosus	annulatus	37384126		400
+Labridae	Hologymnosus	doliatus	37384127		500
+Labridae	Hologymnosus	rhodonotus	37384202		320
+Malacanthidae	Hoplolatilus	cuniculus	37331007		160
+Chimaeridae	Hydrolagus	lemures	37042003		880
+Triakidae	Hypogaleus	hyugaensis	37017006		1270
+Hemiramphidae	Hyporhamphus	affinis	37234016		
+Hemiramphidae	Hyporhamphus	dussumieri	37234008		380
+Triakidae	Iago	garricki	37017007		750
+Labridae	Iniistius	pavo	37384177		420
+Labridae	Iniistius	twistii	37384208		
+Sciaenidae	Johnius	laevis	37354004		
+Kyphosidae	Kyphosus	bigibbus	37361021		750
+Kyphosidae	Kyphosus	cinerascens	37361022		500
+Kyphosidae	Kyphosus	cornelii	37361012		700
+Kyphosidae	Kyphosus	gladius	37361025		
+Kyphosidae	Kyphosus	sydneyanus	37361001		800
+Kyphosidae	Kyphosus	vaigiensis	37361014		700
+Pseudochromidae	Labracinus	cyclophthalmus	37313026		
+Pseudochromidae	Labracinus	lineatus	37313003		250
+Labridae	Labrichthys	unilineatus	37384129		175
+Labridae	Labroides	bicolor	37384130		150
+Labridae	Labroides	dimidiatus	37384028		140
+Labridae	Labroides	pectoralis	37384131		110
+Labridae	Labropsis	australis	37384132		105
+Labridae	Labropsis	manabei	37384181		100
+Labridae	Labropsis	xanthonota	37384133		130
+Ostraciidae	Lactoria	cornuta	37466004		460
+Ostraciidae	Lactoria	diaphana	37466007		
+Tetraodontidae	Lagocephalus	inermis	37467008		
+Tetraodontidae	Lagocephalus	lagocephalus	37467023		
+Tetraodontidae	Lagocephalus	lunaris	37467012		450
+Tetraodontidae	Lagocephalus	sceleratus	37467007		1100
+Tetraodontidae	Lagocephalus	spadiceus	37467017		
+Latidae	Lates	calcarifer	37310006		
+Triglidae	Lepidotrigla	argus	37288032		180
+Pomacentridae	Lepidozygus	tapeinosoma	37372082		
+Leptobramidae	Leptobrama	muelleri	37357012		375
+Labridae	Leptojulis	cyanopleura	37384027		130
+Scaridae	Leptoscarus	vaigiensis	37386009		350
+Lethrinidae	Lethrinus	amboinensis	37351024		700
+Lethrinidae	Lethrinus	atkinsoni	37351013		500
+Lethrinidae	Lethrinus	erythracanthus	37351025		700
+Lethrinidae	Lethrinus	erythropterus	37351029		500
+Lethrinidae	Lethrinus	genivittatus	37351002		250
+Lethrinidae	Lethrinus	laticaudis	37351006		560
+Lethrinidae	Lethrinus	lentjan	37351007		520
+Lethrinidae	Lethrinus	microdon	37351011		800
+Lethrinidae	Lethrinus	miniatus	37351009		900
+Lethrinidae	Lethrinus	nebulosus	37351008		870
+Lethrinidae	Lethrinus	obsoletus	37351019		600
+Lethrinidae	Lethrinus	olivaceus	37351004		1000
+Lethrinidae	Lethrinus	punctulatus			520
+Lethrinidae	Lethrinus	ravus	37351031		300
+Lethrinidae	Lethrinus	rubrioperculatus	37351012		500
+Lethrinidae	Lethrinus	semicinctus	37351016		350
+Lethrinidae	Lethrinus	variegatus	37351014		200
+Lethrinidae	Lethrinus	xanthochilus	37351020		700
+Lutjanidae	Lipocheilus	carnolabrum	37346031		500
+Mugilidae	Liza	vaigiensis	37381008		
+Carcharhinidae	Loxodon	macrorhinus	37018005		980
+Lutjanidae	Lutjanus	argentimaculatus	37346015		1500
+Lutjanidae	Lutjanus	biguttatus	37346039		250
+Lutjanidae	Lutjanus	bitaeniatus	37346025		300
+Lutjanidae	Lutjanus	bohar	37346029		900
+Lutjanidae	Lutjanus	carponotatus	37346011		400
+Lutjanidae	Lutjanus	decussatus	37346041		350
+Lutjanidae	Lutjanus	erythropterus	37346005		816
+Lutjanidae	Lutjanus	fulviflamma	37346034		350
+Lutjanidae	Lutjanus	gibbus	37346028		500
+Lutjanidae	Lutjanus	johnii	37346030		
+Lutjanidae	Lutjanus	kasmira	37346044		400
+Lutjanidae	Lutjanus	lemniscatus	37346010		650
+Lutjanidae	Lutjanus	lutjanus	37346008		350
+Lutjanidae	Lutjanus	malabaricus	37346007		1000
+Lutjanidae	Lutjanus	monostigma	37346045		600
+Lutjanidae	Lutjanus	quinquelineatus	37346006		380
+Lutjanidae	Lutjanus	rivulatus	37346016		800
+Lutjanidae	Lutjanus	russellii	37346065		500
+Lutjanidae	Lutjanus	sebae	37346004		1160
+Lutjanidae	Lutjanus	vitta	37346003		400
+Lutjanidae	Macolor	macularis	37346047		600
+Lutjanidae	Macolor	niger	37346048		750
+Labridae	Macropharyngodon	meleagris	37384136		150
+Labridae	Macropharyngodon	negrosensis	37384137		120
+Labridae	Macropharyngodon	ornatus	37384138		130
+Dasyatidae	Maculabatis	toshi	37035022		
+Malacanthidae	Malacanthus	brevirostris	37331009		320
+Malacanthidae	Malacanthus	latovittatus	37331010		450
+Carangidae	Megalaspis	cordyla	37337028		
+Blenniidae	Meiacanthus	grammistes	37408005		110
+Blenniidae	Meiacanthus	luteus	37408054		103
+Balistidae	Melichthys	niger	37465081		500
+Balistidae	Melichthys	vidua	37465058		400
+Monacanthidae	Meuschenia	freycineti	37465036		600
+Scorpididae	Microcanthus	strigatus	37361005		160
+Mobulidae	Mobula	birostris	37041004		
+Mobulidae	Mobula	japanica	37041002		3100
+Mobulidae	Mobula	tarapacana	37041006		3280
+Molidae	Mola	mola	37470002		3330
+Monacanthidae	Monacanthus	chinensis	37465009		380
+Monodactylidae	Monodactylus	argenteus	37356002		270
+Lethrinidae	Monotaxis	grandoculis	37351026		600
+Mugilidae	Moolgarda	cunnesius	37381006		
+Mugilidae	Mugil	cephalus	37381002		1000
+Mullidae	Mulloidichthys	flavolineatus	37355019		430
+Mullidae	Mulloidichthys	vanicolensis	37355020		380
+Triakidae	Mustelus	ravidus	37017005		
+Myliobatidae	Myliobatis	tenuicaudatus	37039001		1500
+Holocentridae	Myripristis	adusta	37261008		350
+Holocentridae	Myripristis	berndti	37261006		300
+Holocentridae	Myripristis	botche	37261004		300
+Holocentridae	Myripristis	chryseres	37261009		250
+Holocentridae	Myripristis	hexagona	37261010		
+Holocentridae	Myripristis	kuntee	37261011		260
+Holocentridae	Myripristis	murdjan	37261002		
+Holocentridae	Myripristis	pralinia	37261013		
+Holocentridae	Myripristis	violacea	37261014		350
+Holocentridae	Myripristis	vittata	37261015		250
+Mugilidae	Myxus	elongatus	37381003		
+Acanthuridae	Naso	annulatus	37437024		1000
+Acanthuridae	Naso	brachycentron	37437025		900
+Acanthuridae	Naso	brevirostris	37437026		600
+Acanthuridae	Naso	caesius	37437046		456
+Acanthuridae	Naso	fageni	37437027		800
+Acanthuridae	Naso	hexacanthus	37437028		750
+Acanthuridae	Naso	lituratus	37437029		460
+Acanthuridae	Naso	lopezi	37437030		600
+Acanthuridae	Naso	maculatus	37437038		600
+Acanthuridae	Naso	mcdadei	37437003		750
+Acanthuridae	Naso	reticulatus	37437049		490
+Acanthuridae	Naso	tonganus	37437047		600
+Acanthuridae	Naso	unicornis	37437031		700
+Acanthuridae	Naso	vlamingii	37437032		600
+Carangidae	Naucrates	ductor	37337040		700
+Scorpididae	Neatypus	obliquus	37361002		220
+Ginglymostomatidae	Nebrius	ferrugineus	37013010		3200
+Carcharhinidae	Negaprion	acutidens	37018029		3800
+Monacanthidae	Nelusetta	ayraud	37465006		1000
+Clupeidae	Nematalosa	vlaminghi	37085017		360
+Gobiidae	Nemateleotris	magnifica	37435008		
+Nemipteridae	Nemipterus	balinensoides	37347038		
+Nemipteridae	Nemipterus	bathybius	37347001		
+Nemipteridae	Nemipterus	celebicus	37347004		
+Nemipteridae	Nemipterus	furcosus	37347005		240
+Nemipteridae	Nemipterus	hexodon	37347014		
+Nemipteridae	Nemipterus	nematopus	37347002		
+Nemipteridae	Nemipterus	peronii	37347003		290
+Ariidae	Neoarius	graeffei	37188005		
+Pomacentridae	Neoglyphidodon	melas	37372084		180
+Pomacentridae	Neoglyphidodon	nigroris	37372085		130
+Pomacentridae	Neopomacentrus	azysron	37372087		75
+Pomacentridae	Neopomacentrus	bankieri	37372088		
+Pomacentridae	Neopomacentrus	cyanomos	37372089		100
+Pomacentridae	Neopomacentrus	filamentosus	37372090		110
+Dasyatidae	Neotrygon	annotata	37035012		
+Dasyatidae	Neotrygon	australiae	37035004		
+Dasyatidae	Neotrygon	leylandi	37035013		250
+Ariidae	Netuma	thalassina	37188001		1850
+Labridae	Notolabrus	parilus	37384022		
+Labridae	Novaculichthys	taeniourus	37384140		300
+Balistidae	Odonus	niger	37465061		500
+Odacidae	Olisthops	cyanomelas	37385001		350
+Ophichthidae	Ophichthus	lithinus	37068043		
+Labridae	Ophthalmolepis	lineolatus	37384040		400
+Opistognathidae	Opistognathus	papuensis	37388006		
+Opistognathidae	Opistognathus	verecundus	37388017		
+Orectolobidae	Orectolobus	halei	37013020		2560
+Orectolobidae	Orectolobus	hutchinsi	37013016		1490
+Orectolobidae	Orectolobus	maculatus	37013003		3200
+Orectolobidae	Orectolobus	ornatus	37013001		2900
+Orectolobidae	Orectolobus	reticulatus	37013023		
+Orectolobidae	Orectolobus	wardi	37013017		630
+Holocentridae	Ostichthys	kaianus	37261005		360
+Apogonidae	Ostorhinchus	angustatus	37327042		110
+Apogonidae	Ostorhinchus	apogonoides	37327043		100
+Apogonidae	Ostorhinchus	aureus	37327020		145
+Apogonidae	Ostorhinchus	cavitiensis	37327028		
+Apogonidae	Ostorhinchus	chrysotaenia	37327047		
+Apogonidae	Ostorhinchus	compressus	37327049		
+Apogonidae	Ostorhinchus	doederleini	37327053		140
+Apogonidae	Ostorhinchus	fasciatus	37327158		
+Apogonidae	Ostorhinchus	fleurieu	37327148		125
+Apogonidae	Ostorhinchus	monospilus	37327067		78
+Apogonidae	Ostorhinchus	rueppellii	37327040		120
+Apogonidae	Ostorhinchus	selas	37327152		40
+Apogonidae	Ostorhinchus	taeniophorus	37327075		115
+Apogonidae	Ostorhinchus	victoriae	37327079		80
+Ostraciidae	Ostracion	cubicus	37466013		450
+Ostraciidae	Ostracion	meleagris	37466019		250
+Ostraciidae	Ostracion	solorensis	37466020		120
+Labridae	Oxycheilinus	bimaculatus	37384063		150
+Labridae	Oxycheilinus	celebicus	37384179		240
+Labridae	Oxycheilinus	digrammus	37384065		400
+Labridae	Oxycheilinus	orientalis	37384030		200
+Labridae	Oxycheilinus	unifasciatus	37384068		460
+Monacanthidae	Oxymonacanthus	longirostris	37465062		120
+Carangidae	Pantolabus	radiatus	37337047		400
+Chaetodontidae	Parachaetodon	ocellatus	37365003		180
+Cirrhitidae	Paracirrhites	arcatus	37374009		200
+Cirrhitidae	Paracirrhites	forsteri	37374010		220
+Cirrhitidae	Paracirrhites	hemistictus	37374011		
+Liparidae	Paraliparis	auriculatus	37307010		
+Monacanthidae	Paramonacanthus	choirocephalus	37465064		150
+Monacanthidae	Paramonacanthus	filicauda	37465024		
+Monacanthidae	Paramonacanthus	oblongus	37465017		
+Pinguipedidae	Parapercis	clathrata	37390013		240
+Pinguipedidae	Parapercis	diplospilus	37390014		100
+Pinguipedidae	Parapercis	haackei	37390004		100
+Pinguipedidae	Parapercis	millepunctata	37390015		180
+Pinguipedidae	Parapercis	multiplicata	37390016		150
+Pinguipedidae	Parapercis	nebulosa	37390005		250
+Pinguipedidae	Parapercis	schauinslandii	37390017		180
+Pinguipedidae	Parapercis	snyderi	37390018		110
+Pinguipedidae	Parapercis	xanthozona	37390025		230
+Plesiopidae	Paraplesiops	meleagris	37316009		330
+Plotosidae	Paraplotosus	albilabris	37192005		
+Plotosidae	Paraplotosus	butleri	37192020		325
+Nemipteridae	Parascolopsis	eriomma	37347015		350
+Nemipteridae	Parascolopsis	tanyactis	37347010		210
+Carangidae	Parastromateus	niger	37337072		750
+Pomacentridae	Parma	mccullochi	37372093		531
+Pomacentridae	Parma	occidentalis	37372094		130
+Mullidae	Parupeneus	barberinoides	37355021		300
+Mullidae	Parupeneus	barberinus	37355022		600
+Mullidae	Parupeneus	chrysopleuron	37355016		550
+Mullidae	Parupeneus	crassilabris	37355023		380
+Mullidae	Parupeneus	cyclostomus	37355025		500
+Mullidae	Parupeneus	heptacanthus	37355004		360
+Mullidae	Parupeneus	indicus	37355005		450
+Mullidae	Parupeneus	multifasciatus	37355026		350
+Mullidae	Parupeneus	pleurostigma	37355027		330
+Mullidae	Parupeneus	spilurus	37355015		500
+Mullidae	Parupeneus	trifasciatus	37355036		350
+Dasyatidae	Pastinachus	ater	37035011		
+Dasyatidae	Pateobatis	fai	37035024		
+Dasyatidae	Pateobatis	jenkinsii	37035025		
+Terapontidae	Pelates	octolineatus	37321020		280
+Terapontidae	Pelates	quadrilineatus	37321001		300
+Pempherididae	Pempheris	adusta	37357018		170
+Pempherididae	Pempheris	analis	37357006		200
+Pempherididae	Pempheris	klunzingeri	37357003		180
+Pempherididae	Pempheris	oualensis	37357010		220
+Nemipteridae	Pentapodus	emeryii	37347027		350
+Nemipteridae	Pentapodus	nagasakiensis	37347012		200
+Nemipteridae	Pentapodus	porosus	37347007		270
+Nemipteridae	Pentapodus	vitta	37347022		260
+Gerreidae	Pentaprion	longimanus	37349002		
+Monacanthidae	Pervagor	janthinosoma	37465068		130
+Blenniidae	Petroscirtes	breviceps	37408071		110
+Pseudochromidae	Pictichromis	paccagnellae	37313010		
+Blenniidae	Plagiotremus	rhinorhynchos	37408004		120
+Blenniidae	Plagiotremus	tapeinosoma	37408076		140
+Ephippidae	Platax	batavianus	37362002		650
+Ephippidae	Platax	orbicularis	37362007		600
+Ephippidae	Platax	pinnatus	37362006		450
+Ephippidae	Platax	teira	37362004		700
+Belonidae	Platybelone	argalus	37235008		
+Platycephalidae	Platycephalus	endrachtensis	37296021		450
+Haemulidae	Plectorhinchus	chaetodonoides	37350014		720
+Haemulidae	Plectorhinchus	chrysotaenia	37350017		410
+Haemulidae	Plectorhinchus	flavomaculatus	37350007		600
+Haemulidae	Plectorhinchus	gibbosus	37350012		750
+Haemulidae	Plectorhinchus	multivittatus	37350018		500
+Haemulidae	Plectorhinchus	picus	37350023		840
+Haemulidae	Plectorhinchus	polytaenia	37350005		500
+Haemulidae	Plectorhinchus	schotaf	37350013		800
+Haemulidae	Plectorhinchus	vittatus	37350015		720
+Pomacentridae	Plectroglyphidodon	dickii	37372098		110
+Pomacentridae	Plectroglyphidodon	imparipennis	37372099		
+Pomacentridae	Plectroglyphidodon	johnstonianus	37372100		140
+Pomacentridae	Plectroglyphidodon	lacrymatus	37372101		100
+Pomacentridae	Plectroglyphidodon	leucozonus	37372102		120
+Serranidae	Plectropomus	areolatus	37311081		800
+Serranidae	Plectropomus	laevis	37311079		1250
+Serranidae	Plectropomus	leopardus	37311078		1200
+Serranidae	Plectropomus	maculatus	37311012		1250
+Serranidae	Plectropomus	oligacanthus	37311162		
+Plotosidae	Plotosus	lineatus	37192002		320
+Polynemidae	Polydactylus	multiradiatus	37383002		
+Polynemidae	Polydactylus	plebeius	37383009		450
+Phosichthyidae	Polymetme	corythaeola	37106001		
+Polymixiidae	Polymixia	busakhini	37253002		
+Pomacanthidae	Pomacanthus	imperator	37365014		400
+Pomacanthidae	Pomacanthus	semicirculatus	37365080		400
+Pomacanthidae	Pomacanthus	sexstriatus	37365010		460
+Pomacentridae	Pomacentrus	bankanensis	37372108		90
+Pomacentridae	Pomacentrus	brachialis	37372109		80
+Pomacentridae	Pomacentrus	chrysurus	37372110		90
+Pomacentridae	Pomacentrus	coelestis	37372111		90
+Pomacentridae	Pomacentrus	lepidogenys	37372114		90
+Pomacentridae	Pomacentrus	limosus	37372116		90
+Pomacentridae	Pomacentrus	milleri	37372117		100
+Pomacentridae	Pomacentrus	moluccensis	37372118		90
+Pomacentridae	Pomacentrus	nagasakiensis	37372119		110
+Pomacentridae	Pomacentrus	nigromanus	37372120		90
+Pomacentridae	Pomacentrus	nigromarginatus	37372121		80
+Pomacentridae	Pomacentrus	pavo	37372122		85
+Pomacentridae	Pomacentrus	philippinus	37372123		100
+Pomacentridae	Pomacentrus	reidi	37372124		
+Pomacentridae	Pomacentrus	vaiuli	37372126		100
+Pomacentridae	Pomachromis	richardsoni	37372128		60
+Haemulidae	Pomadasys	argenteus	37350009		
+Haemulidae	Pomadasys	kaakan	37350011		800
+Haemulidae	Pomadasys	maculatus	37350002		
+Pomatomidae	Pomatomus	saltatrix	37334002		1300
+Priacanthidae	Priacanthus	blochii	37326012		350
+Priacanthidae	Priacanthus	hamrur	37326005		450
+Apogonidae	Pristiapogon	fraenatus	37327057		
+Lutjanidae	Pristipomoides	filamentosus	37346032		1000
+Lutjanidae	Pristipomoides	multidens	37346002		900
+Lutjanidae	Pristipomoides	typus	37346019		700
+Lutjanidae	Pristipomoides	sieboldii	37346064		790
+Pristidae	Pristis	clavata	37025004		
+Pristidae	Pristis	zijsron	37025001		7300
+Pomacentridae	Pristotis	obtusirostris	37372001		140
+Sciaenidae	Protonibea	diacanthus	37354003		1500
+Latidae	Psammoperca	datnioides	37310001		470
+Serranidae	Pseudanthias	bicolor	37311112		130
+Serranidae	Pseudanthias	cooperi	37311113		140
+Serranidae	Pseudanthias	fasciatus	37311116		210
+Serranidae	Pseudanthias	georgei	37311093		
+Serranidae	Pseudanthias	lori	37311119		
+Serranidae	Pseudanthias	pleurotaenia	37311123		200
+Serranidae	Pseudanthias	rubrizonatus	37311124		120
+Serranidae	Pseudanthias	tuka	37311127		120
+Balistidae	Pseudobalistes	flavimarginatus	37465071		600
+Balistidae	Pseudobalistes	fuscus	37465027		550
+Callionymidae	Pseudocalliurichthys	goodladi	37427006		
+Carangidae	Pseudocaranx	dinjerra	37337081		230
+Carangidae	Pseudocaranx	wrighti	37337063		700
+Labridae	Pseudocheilinus	evanidus	37384142		90
+Labridae	Pseudocheilinus	hexataenia	37384143		100
+Labridae	Pseudocheilinus	octotaenia	37384144		
+Pseudochromidae	Pseudochromis	andamanensis	37313034		70
+Pseudochromidae	Pseudochromis	fuscus	37313006		100
+Pseudochromidae	Pseudochromis	howsoni	37313030		100
+Pseudochromidae	Pseudochromis	marshallensis	37313008		80
+Pseudochromidae	Pseudochromis	quinquedentatus	37313001		95
+Pseudochromidae	Pseudochromis	wilsoni	37313018		80
+Labridae	Pseudocoris	yamashiroi	37384145		160
+Labridae	Pseudodax	moluccanus	37384146		300
+Labridae	Pseudojuloides	elongatus	37384148		
+Labridae	Pseudojuloides	severnsi	37384209		91.5
+Monacanthidae	Pseudomonacanthus	elongatus	37465029		
+Monacanthidae	Pseudomonacanthus	peroni	37465020		350
+Paralichthyidae	Pseudorhombus	arsius	37460009		450
+Labridae	Pteragogus	cryptus	37384033		95
+Labridae	Pteragogus	enneacanthus	37384153		150
+Labridae	Pteragogus	flagellifer	37384204		200
+Microdesmidae	Ptereleotris	evides	37435015		140
+Microdesmidae	Ptereleotris	grammica	37435016		100
+Microdesmidae	Ptereleotris	hanae	37435017		
+Microdesmidae	Ptereleotris	heteroptera	37435018		140
+Microdesmidae	Ptereleotris	microlepis	37435019		130
+Microdesmidae	Ptereleotris	monoptera	37435020		120
+Caesionidae	Pterocaesio	chrysozona	37346009		210
+Caesionidae	Pterocaesio	digramma	37346050		300
+Caesionidae	Pterocaesio	marri	37346068		350
+Caesionidae	Pterocaesio	pisang	37346062		
+Caesionidae	Pterocaesio	tile	37346063		300
+Pteroidae	Pterois	russelii	37287012		
+Pteroidae	Pterois	volitans	37287040		380
+Pomacanthidae	Pygoplites	diacanthus	37365082		250
+Rachycentridae	Rachycentron	canadum	37335001		2000
+Scombridae	Rastrelliger	kanagurta	37441012		
+Echeneidae	Remora	remora	37336002		864
+Apogonidae	Rhabdamia	gracilis	37327022		60
+Sparidae	Rhabdosargus	sarba	37353013		800
+Rhinobatidae	Rhina	ancylostoma	37026002		3000
+Balistidae	Rhinecanthus	aculeatus	37465028		300
+Balistidae	Rhinecanthus	rectangulus	37465073		300
+Rhinobatidae	Rhinobatos	sainsburyi	37027003		595
+Myliobatidae	Rhinoptera	javanica	37040002		1500
+Carcharhinidae	Rhizoprionodon	acutus	37018006		1750
+Carcharhinidae	Rhizoprionodon	taylori	37018024		691
+Rhinidae	Rhynchobatus	australiae	37026005		3000
+Rhinidae	Rhynchobatus	palpebratus	37026004		1025
+Ostraciidae	Rhynchostracion	nasus	37466005		300
+Ostraciidae	Rhynchostracion	rhinorhynchos	37466009		350
+Blenniidae	Salarias	fasciatus	37408079		140
+Blenniidae	Salarias	guttatus	37408078		100
+Scombridae	Sarda	orientalis	37441006		1020
+Clupeidae	Sardinella	gibbosa	37085013		
+Holocentridae	Sargocentron	caudimaculatum	37261022		300
+Holocentridae	Sargocentron	melanospilos	37261026		
+Holocentridae	Sargocentron	microstoma	37261027		
+Holocentridae	Sargocentron	punctatissimum	37261028		
+Holocentridae	Sargocentron	rubrum	37261001		320
+Holocentridae	Sargocentron	spiniferum	37261029		510
+Holocentridae	Sargocentron	tiere	37261030		
+Peristediidae	Satyrichthys	rieffeli	37288019		
+Synodontidae	Saurida	nebulosa	37118027		165
+Synodontidae	Saurida	undosquamis	37118001		500
+Synodontidae	Saurida	longimanus	37118014		250
+Nemipteridae	Scaevius	milii	37347020		200
+Scaridae	Scarus	chameleon	37386012		310
+Scaridae	Scarus	dimidiatus	37386013		400
+Scaridae	Scarus	flavipectoralis	37386014		400
+Scaridae	Scarus	forsteni	37386015		550
+Scaridae	Scarus	frenatus	37386016		470
+Scaridae	Scarus	ghobban	37386001		900
+Scaridae	Scarus	globiceps	37386018		450
+Scaridae	Scarus	niger	37386021		400
+Scaridae	Scarus	oviceps	37386022		350
+Scaridae	Scarus	prasiognathos	37386023		700
+Scaridae	Scarus	psittacus	37386024		340
+Scaridae	Scarus	rivulatus	37386027		400
+Scaridae	Scarus	rubroviolaceus	37386028		700
+Scaridae	Scarus	schlegeli	37386029		400
+Scaridae	Scarus	spinus	37386031		300
+Scaridae	Scarus	tricolor	37386036		266
+Scaridae	Scarus	xanthopleura	37386032		
+Monacanthidae	Scobinichthys	granulatus	37465007		300
+Ophichthidae	Scolecenchelys	breviceps	37068004		600
+Nemipteridae	Scolopsis	affinis	37347030		240
+Nemipteridae	Scolopsis	bilineata	37347031		250
+Nemipteridae	Scolopsis	lineata	37347032		250
+Nemipteridae	Scolopsis	monogramma	37347006		380
+Nemipteridae	Scolopsis	taenioptera	37347008		300
+Nemipteridae	Scolopsis	trilineata	37347034		250
+Nemipteridae	Scolopsis	vosmeri	37347018		
+Nemipteridae	Scolopsis	xenochrous	37347035		265
+Scombridae	Scomber	australasicus	37441001		440
+Carangidae	Scomberoides	commersonnianus	37337032		1200
+Carangidae	Scomberoides	lysan	37337046		1100
+Carangidae	Scomberoides	tala	37337045		
+Carangidae	Scomberoides	tol	37337044		600
+Scombridae	Scomberomorus	commerson	37441007		2400
+Scombridae	Scomberomorus	munroi	37441015		1040
+Scombridae	Scomberomorus	queenslandicus	37441014		1000
+Scombridae	Scomberomorus	semifasciatus	37441018		
+Scorpaenidae	Scorpaenopsis	venosa	37287086		
+Scorpididae	Scorpis	georgiana	37361015		330
+Carangidae	Selar	boops	37337008		250
+Carangidae	Selar	crumenophthalmus	37337009		700
+Carangidae	Selaroides	leptolepis	37337015		220
+Carangidae	Seriola	dumerili	37337025		1900
+Carangidae	Seriola	hippos	37337007		1500
+Carangidae	Seriola	lalandi	37337006		2500
+Carangidae	Seriola	rivoliana	37337052		1600
+Carangidae	Seriolina	nigrofasciata	37337014		700
+Siganidae	Siganus	argenteus	37438007		400
+Siganidae	Siganus	canaliculatus	37438004		400
+Siganidae	Siganus	doliatus	37438009		300
+Siganidae	Siganus	fuscescens	37438001		400
+Siganidae	Siganus	lineatus	37438010		430
+Siganidae	Siganus	punctatissimus	37438012		350
+Siganidae	Siganus	punctatus	37438003		400
+Siganidae	Siganus	stellatus	37438018		400
+Siganidae	Siganus	trispilos	37438014		250
+Siganidae	Siganus	virgatus	37438016		300
+Sillaginidae	Sillaginodes	punctatus	37330001		720
+Sillaginidae	Sillago	analis	37330003		450
+Sillaginidae	Sillago	maculata	37330015		
+Sillaginidae	Sillago	sihama	37330006		310
+Apogonidae	Siphamia	cephalotes	37327032		
+Apogonidae	Sphaeramia	orbicularis	37327184		
+Sphyraenidae	Sphyraena	barracuda	37382008		2000
+Sphyraenidae	Sphyraena	forsteri	37382005		750
+Sphyraenidae	Sphyraena	jello	37382004		1500
+Sphyraenidae	Sphyraena	novaehollandiae	37382002		1000
+Sphyraenidae	Sphyraena	obtusata	37382007		550
+Sphyraenidae	Sphyraena	putnamae	37382006		
+Sphyraenidae	Sphyraena	qenie	37382009		1700
+Sphyrnidae	Sphyrna	lewini	37019001		4300
+Sphyrnidae	Sphyrna	mokarran	37019002		6100
+Sphyrnidae	Sphyrna	zygaena	37019004		5000
+Clupeidae	Spratelloides	gracilis	37085030		105
+Clupeidae	Spratelloides	robustus	37085003		120
+Squalidae	Squalus	montalbani	37020047		840
+Pomacentridae	Stegastes	albifasciatus	37372130		130
+Pomacentridae	Stegastes	apicalis	37372131		150
+Pomacentridae	Stegastes	fasciolatus	37372132		165
+Pomacentridae	Stegastes	nigricans	37372135		140
+Pomacentridae	Stegastes	obreptus	37372136		180
+Stegostomatidae	Stegostoma	fasciatum	37013006		3540
+Labridae	Stethojulis	bandanensis	37384154		150
+Labridae	Stethojulis	interrupta	37384155		130
+Labridae	Stethojulis	strigiventer	37384156		150
+Engraulidae	Stolephorus	commersonnii	37086013		
+Gobiidae	Stonogobiops	xanthorhinica	37428253		
+Belonidae	Strongylura	leiura	37235003		
+Labridae	Suezichthys	cyanolaemus	37384161		97
+Labridae	Suezichthys	devisi	37384195		140
+Labridae	Suezichthys	soelae	37384026		
+Balistidae	Sufflamen	chrysopterum	37465079		300
+Balistidae	Sufflamen	fraenatum	37465014		380
+Lutjanidae	Symphorus	nematophorus	37346017		1000
+Synodontidae	Synodus	dermatogenys	37118003		240
+Synodontidae	Synodus	indicus	37118009		330
+Synodontidae	Synodus	variegatus	37118023		400
+Synodontidae	Synodus	sageneus	37118004		260
+Apogonidae	Taeniamia	melasma	37327084		86
+Scorpaenidae	Taenianotus	triacanthus	37287090		
+Dasyatidae	Taeniura	lymma	37035009		350
+Dasyatidae	Taeniurops	meyeni	37035017		3300
+Terapontidae	Terapon	jarbua	37321002		360
+Terapontidae	Terapon	theraps	37321003		300
+Torpedinidae	Tetronarce	nobiliana	37028003		
+Ostraciidae	Tetrosomus	reipublicae	37466008		300
+Labridae	Thalassoma	amblycephalum	37384164		160
+Labridae	Thalassoma	hardwicke	37384165		200
+Labridae	Thalassoma	jansenii	37384166		200
+Labridae	Thalassoma	lunare	37384167		450
+Labridae	Thalassoma	lutescens	37384168		300
+Labridae	Thalassoma	purpureum	37384169		460
+Labridae	Thalassoma	quinquevittatum	37384170		170
+Labridae	Thalassoma	septemfasciatum	37384171		310
+Monacanthidae	Thamnaconus	modestoides	37465038		300
+Scombridae	Thunnus	maccoyii	37441004		
+Stomiidae	Thysanactis	dentex	37109036		
+Tetraodontidae	Torquigener	pallimaculatus	37467009		180
+Tetraodontidae	Torquigener	parcuspinus	37467029		
+Tetraodontidae	Torquigener	pleurogramma	37467030		210
+Tetraodontidae	Torquigener	vicinus	37467063		
+Tetraodontidae	Torquigener	whitleyi	37467028		
+Synodontidae	Trachinocephalus	trachinus	37118002		400
+Carangidae	Trachinotus	baillonii	37337074		600
+Carangidae	Trachinotus	blochii	37337075		1100
+Carangidae	Trachinotus	botla	37337066		
+Carangidae	Trachurus	novaezelandiae	37337003		500
+Diodontidae	Tragulichthys	jaculiferus	37469004		300
+Carcharhinidae	Triaenodon	obesus	37018038		2130
+Trichiuridae	Trichiurus	lepturus	37440004		2340
+Trichiuridae	Trichiurus	nickolensis	37440014		702
+Trichonotidae	Trichonotus	setiger	37394001		220
+Gobiidae	Trimma	emeryi	37428265		
+Serranidae	Triso	dermopterus	37311165		680
+Triacanthidae	Trixiphichthys	weberi	37464001		300
+Urolophidae	Trygonoptera	ovalis	37038016		610
+Belonidae	Tylosurus	crocodilus	37235005		1500
+Belonidae	Tylosurus	gavialoides	37235002		750
+Carangidae	Ulua	mentalis	37337048		1000
+Mullidae	Upeneus	luzonius	37355009		
+Mullidae	Upeneus	moluccensis	37355003		220
+Mullidae	Upeneus	sundaicus	37355013		220
+Mullidae	Upeneus	tragula	37355014		250
+Mullidae	Upeneus	vittatus	37355031		280
+Carangidae	Uraspis	secunda	37337059		500
+Dasyatidae	Urogymnus	granulatus	37035019		
+Urolophidae	Urolophus	westraliensis	37038009		
+Mugilidae	Valamugil	buchanani	37381010		
+Gobiidae	Valenciennea	longipinnis	37428282		180
+Gobiidae	Valenciennea	muralis	37428283		160
+Gobiidae	Valenciennea	sexguttata	37428285		140
+Gobiidae	Valenciennea	strigata	37428286		180
+Serranidae	Variola	albimarginata	37311026		650
+Serranidae	Variola	louti	37311166		830
+Lethrinidae	Wattsia	mossambica	37351027		550
+Balistidae	Xanthichthys	auromarginatus	37465080		300
+Balistidae	Xanthichthys	caeruleolineatus	37465087		350
+Balistidae	Xanthichthys	lineopunctatus	37465016		300
+Gobiidae	Yongeichthys	nebulosus	37428001		
+Ephippidae	Zabidius	novemaculeatus	37362003		450
+Zanclidae	Zanclus	cornutus	37437001		230
+Acanthuridae	Zebrasoma	scopas	37437036		400
+Acanthuridae	Zebrasoma	veliferum	37437037		
+Zeidae	Zenopsis	nebulosa	37264003		
+Labridae	Notolabrus	cinctus	GPF		30
+Cheilodactylidae	Nemadactylus	macropterus	TAR		70
+Sebastidae	Helicolenus	percoides	37287001		47
+Hemerocoetidae	Hemerocoetes	monopterygius	OPA		28
+Labridae	Notolabrus	celidotus	STY		24
+Pinguipedidae	Parapercis	colias	BCO		45
+Serranidae	Caesioperca	lepidoptera	BPE		30
+Myxinidae	Eptatretus	cirrhatus	HAG		97
+Triakidae	Galeorhinus	galeus	SCH		193
+Triakidae	Mustelus	lenticulatus	SPO		125
+Squalidae	Squalus	acanthias	SPD		160
+Labridae	Pseudolabrus	miles	SPF		27
+Callanthiidae	Callanthias	allporti	SPP		30
+Callanthiidae	Callanthias	australis	NSP		49
+Polyprionidae	Polyprion	oxygeneios	HAP		160
+Hexanchidae	Notorynchus	cepedianus	SEV		300
+Triglidae	Chelidonichthys	kumu	GUR		60
+Arripidae	Arripis	trutta	KAH		89
+Scyliorhinidae	Cephaloscyllium	isabella	CAR		160

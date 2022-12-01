@@ -28,7 +28,7 @@ tab <- readxl::read_excel(temp_file, sheet = "SpeciesInfo", col_names = T) |>
          TaxonomicNotes )
 
 # Write
-write.table(tab, file = "MasseySpeciesList.txt")
+write.table(tab, file = "MasseySpeciesList.txt", quote = F)
 
 # # Check names
 # vnfb <- validate_names(tab$genusspecies, server = "fishbase")

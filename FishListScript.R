@@ -16,26 +16,32 @@ req <- GET(github_link,
 
 # Import
 tab <- readxl::read_excel(temp_file, sheet = "SpeciesInfo", col_names = T) |>
-  select(`!Family` = Family,
+  transmute(`!Family` = Family,
          Genus,
          Species,
+         Code = str_remove(Code, "[.]"),
          CommonName = commonname,
-         Code,
          Size = `Size(mm)`,
          MinDepth,
          MaxDepth,
          commonname,
          TaxonomicNotes )
 
+# Check that all codes are unique (should return 0)
+anyDuplicated(tab$Code)
 
-# Write
 
+# Write all the info to an excel file
+write_csv(tab, file = "MasseySpeciesListInfo.csv",
+                quote = "none")
 
-
-write.table(tab, sep="\t",
-            file = "MasseySpeciesList.txt",
-            quote = F,
-            row.names = F)
+# Write just family, genus, species, and code to species list file
+tab |>
+  select(1:4) |>
+  write.table(sep="\t",
+              file = "MasseySpeciesList.txt",
+              quote = F,
+              row.names = F)
 
 # # Check names
 # vnfb <- validate_names(tab$genusspecies, server = "fishbase")
@@ -43,8 +49,3 @@ write.table(tab, sep="\t",
 # cbind(tab$genusspecies,
 #       vnfb,
 #       tab$genusspecies==vnfb), file = "outfish.csv")
-#
-
-
-
-

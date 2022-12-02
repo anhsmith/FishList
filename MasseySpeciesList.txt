@@ -1,164 +1,164 @@
-!Family	Genus	Species	CommonName	Code	Size	MinDepth	MaxDepth	TaxonomicNotes
-Myxinidae	Eptatretus	cirrhatus	Hagfish	Ept.cir	970	0	1100	NA
-Carcharhinidae	Carcharhinus	brachyurus	Bronze whaler shark	Car.bra	3300	0	360	NA
-Carcharhinidae	Carcharhinus	galapagensis	Galapagos shark	Car.gal	3700	1	286	NA
-Scyliorhinidae	Cephaloscyllium	isabellum	Carpet shark	Cep.isa	905	5	690	Changed from C. isabella; source: Te Papa; fishbase says isabella
-Triakidae	Galeorhinus	galeus	School shark	Gal.gal	1750	0	1100	NA
-Triakidae	Mustelus	lenticulatus	Rig	Mus.len	NA	NA	NA	NA
-Hexanchidae	Notorynchus	cepedianus	Broadsnout sevengill	Not.cep	NA	NA	NA	NA
-Dasyatidae	Bathytoshia	brevicaudata	Short-tailed stingray	Das.bre	4300	0	476	Changed from "Dasyatis brev"; source fishbase
-Dasyatidae	Bathytoshia	lata	Long-tailed stingray	Das.the	3300	0	440	Changed from "Dasyatis thetidis"; source fishbase
-Myliobatidae	Myliobatis	tenuicaudatus	Eagle ray	Myl.ten	1050	0	160	Corrected from "Myliobatus"
-Squalidae	Squalus	acanthias	Spiny dogfish	Squ.aca	1200	0	1460	NA
-Percophidae	Hemerocoetes	monopterygius	Opalfish	Hem.mon	NA	NA	NA	NA
-Polyprionidae	Polyprion	oxygeneios	Hapuku	Pol.oxy	NA	NA	NA	NA
-Congridae	Conger	verreauxi	Common conger eel	Con.ver	2000	NA	45	NA
-Congridae	Conger	wilsoni	Northern conger eel	Con.wil	904	NA	30	NA
-Muraenidae	Enchelycore	ramosa	Mosaic moray	Enc.ram	1800	NA	NA	NA
-Muraenidae	Gymnothorax	nubilus	Grey moray	Gym.nub	820	NA	NA	NA
-Muraenidae	Gymnothorax	obesus	Speckled moray	Gym.obe	1720	NA	NA	NA
-Muraenidae	Gymnothorax	porphyreus	Lowfin moray	Gym.por	1060	1	40	NA
-Muraenidae	Gymnothorax	prasinus	Yellow moray	Gym.pra	1500	NA	NA	NA
-Muraenidae	Gymnothorax	prionodon	Mottled moray	Gym.pri	870	NA	NA	NA
-Synodontidae	Synodus	doaki	Red lizardfish	Syn.doa	244	9	260	NA
-Synodontidae	Synodus	similis	Lavender lizardfish	Syn.sim	185	25	76	NA
-Hemiramphidae	Hyporhamphus	ihi	Garfish/piper	Hyp.ihi	400	NA	NA	NA
-Berycidae	Centroberyx	affinis	Golden snapper	Cen.aff	435	10	450	NA
-Holocentridae	Pristilepis	oligolepis	Unknown leaffish/Rough squirrelfish	Pri.ris	252	14	220	NA
-Trachichthyidae	Optivus	elongatus	Slender roughy	Opt.elo	120	0	70	NA
-Trachichthyidae	Paratrachichthys	trailli	Common roughy	Par.tra	250	20	500	NA
-Moridae	Lotella	phycis	Beardie	Lot.phy	195	NA	NA	NA
-Moridae	Lotella	rhacina	Rock cod	Lot.rha	342	10	90	Corrected from "L. rhacinus"
-Moridae	Pseudophycis	bachus	Red cod	Pse.bac	650	26	700	NA
-Moridae	Pseudophycis	barbata	Southern bastard cod	Pse.bar	620	0	300	NA
-Moridae	Pseudophycis	breviuscula	Northern bastard codling	Pse.bre	151	0	220	NA
-Aplodactylidae	Aplodactylus	arctidens	Marblefish	Apl.arc	570	0	40	NA
-Aplodactylidae	Aplodactylus	etheridgii	Notch-head marblefish	Apl.eth	464	6	20	NA
-Apogonidae	Ostorhinchus	doederleini	Doederlein's cardinalfish	Apo.doe	140	0	10	Corrected from "Apogon"
-Arripidae	Arripis	trutta	Kahawai	Arr.tru	890	30	39	NA
-Arripidae	Arripis	xylabion	Kahawai (Kermadecs)	Arr.xyl	900	NA	NA	NA
-Blenniidae	Cirripectes	alboapicalis	White-dot blenny	Cir.alb	155	0	10	NA
-Blenniidae	Parablennius	laticlavius	Crested blenny	Par.lat	69	1	3	NA
-Blenniidae	Plagiotremus	tapeinosoma	Mimic blenny	Pla.tap	110	1	45	NA
-Bovichtidae	Bovichtus	variegatus	Thornfish	Bov.var	267	NA	NA	NA
-Callanthiidae	Callanthias	allporti	Southern splendid perch	Cal.all	260	20	100	NA
-Callanthiidae	Callanthias	australis	Northern splendid perch	Cal.aus	280	15	365	NA
-Carangidae	Decapterus	koheru	Koheru	Dec.koh	370	0	55	NA
-Carangidae	Decapterus	muroadsi	Amberstripe scad	Dec.mur	450	1	320	NA
-Carangidae	Pseudocaranx	dentex	Trevally	Pse.den	827	10	238	NA
-Carangidae	Seriola	lalandi	Kingfish	Ser.lal	1930	3	825	NA
-Carangidae	Seriola	rivoliana	Almaco jack	Ser.riv	1570	5	245	NA
-Carangidae	Trachurus	novaezelandiae	Jack mackerel	Tra.sp.	500	22	500	NA
-Centrolophidae	Seriolella	brama	Common warehou	Ser.bra	600	22	400	NA
-Chaetodontidae	Amphichaetodon	howensis	Lord Howe butterflyfish/coralfish	Amp.how	200	10	150	NA
-Chaetodontidae	Forcipiger	flavissimus	Longnose butterflyfish	Fcp.fla	180	2	145	NA
-Cheilodactylidae	Chirodactylus	spectabilis	Red moki	Che.spe	700	1	50	Changed from Cheilodactylus; source: Te Papa
-Cheilodactylidae	Goniistius	francisi	Blacktip/masked morwong	Che.fra	274	6	88	Changed from Cheilodactylus; source: Te Papa
-Cheilodactylidae	Morwong	ephippium	Painted moki	Che.eph	410	0	250	Changed from Cheilodactylus; source: Te Papa
-Cheilodactylidae	Nemadactylus	douglasii	Porae	Nem.dou	600	0	200	NA
-Cheilodactylidae	Nemadactylus	macropterus	Tarakihi	Nem.mac	500	22	450	NA
-Cheilodactylidae	Pseudogoniistius	nigripes	Magpie perch/morwong	Che.nig	410	NA	65	Changed from Cheilodactylus; source: Te Papa
-Chironemidae	Chironemus	marmoratus	Hiwihiwi	Chi.mar	400	0	30	NA
-Cirrhitidae	Notocirrhitus	splendens	Splendid hawkfish	Cir.spl	250	NA	NA	NA
-Emmelichthyidae	Plagiogeneion	rubiginosum	Rubyfish	Pla.rub	470	50	600	Corrected from P. -sus
-Gobiidae	Gobiopsis	atrata	New Zealand black goby	Gob.atr	85	0	30	NA
-Kyphosidae	Atypichthys	latus	Mado	Aty.lat	225	NA	NA	NA
-Kyphosidae	Bathystethus	cultratus	Grey knifefish	Bat.cul	350	NA	NA	NA
-Kyphosidae	Girella	cyanea	Bluefish	Gir.cya	510	6	NA	NA
-Kyphosidae	Girella	fimbriata	Caramel drummer	Gir.fim	335	6	NA	NA
-Kyphosidae	Girella	tricuspidata	Parore	Gir.tri	393	0	20	NA
-Kyphosidae	Kyphosus	bigibbus	Grey/Dark-fin drummer	Kyp.big	527	2	NA	NA
-Kyphosidae	Kyphosus	sydneyanus	Silver drummer	Kyp.syd	652	1	20	NA
-Kyphosidae	Labracoglossa	nitida	Blue knifefish	Lab.nit	241	0	NA	NA
-Kyphosidae	Scorpis	lineolata	Sweep	Sco.lin	363	1	30	NA
-Kyphosidae	Scorpis	violacea	Blue maomao	Sco.vio	400	0	30	Corrected from "Scorpis violaceus"
-Labridae	Anampses	caeruleopunctatus	Blue-spotted wrasse	Ana.cae	420	3	30	NA
-Labridae	Anampses	elegans	Elegant wrasse	Ana.ele	300	2	35	NA
-Labridae	Bodianus	flavipinnis	Yellowfin pigfish/foxfish	Bod.fla	368	157	250	NA
-Labridae	Bodianus	unimaculatus	Red pigfish	Bod.vul	375	0	60	NA
-Labridae	Coris	picta	Combfish	Cor.pic	250	NA	NA	NA
-Labridae	Coris	sandeyeri	Sandager's wrasse	Cor.san	327	NA	60	Corrected from "C. sandageri"
-Labridae	Notolabrus	celidotus	Spotty	Not.cel	240	22	145	NA
-Labridae	Notolabrus	cinctus	Girdled wrasse	Not.cin	360	40	91	NA
-Labridae	Notolabrus	fucicola	Banded wrasse	Not.fuc	500	NA	NA	NA
-Labridae	Notolabrus	inscriptus	Green wrasse	Not.ins	325	NA	NA	NA
-Labridae	Pseudolabrus	luculentus	Orange wrasse	Pse.luc	170	10	50	NA
-Labridae	Pseudolabrus	miles	Scarlet wrasse	Pse.mil	350	4	40	NA
-Labridae	Suezichthys	arquatus	Rainbow slender wrasse	Sue.arq	140	13	100	NA
-Labridae	Suezichthys	aylingi	Crimson cleanerfish	Sue.ayl	130	6	100	NA
-Labridae	Thalassoma	amblycephalum	Blunt-headed/two-tone wrasse	Tha.amb	160	1	15	NA
-Labridae	Thalassoma	lutescens	Yellow-brown/sunset wrasse	Tha.lut	250	1	30	NA
-Labridae	Thalassoma	trilobatum	Christmas/ladder wrasse	Tha.tri	300	0	10	NA
-Latridae	Latridopsis	ciliaris	Blue moki	Lat.cil	800	10	NA	NA
-Latridae	Latridopsis	forsteri	Copper moki	Lat.for	650	20	160	NA
-Latridae	Latris	lineata	Trumpeter	Lat.lin	1200	5	400	NA
-Latridae	Mendosoma	lineatum	Telescope fish	Men.lin	366	0	20	NA
-Mugilidae	Aldrichetta	forsteri	Yellow-eyed mullet	Ald.for	360	0	50	NA
-Mullidae	Mulloidichthys	vanicolensis	Yellow goatfish	Mul.van	380	1	113	NA
-Mullidae	Parupeneus	ciliatus	Whitesaddle goatfish	Par.cil	380	2	91	NA
-Mullidae	Parupeneus	spilurus	Blackspot goatfish	Par.spi	272	10	80	Corrected from "Parupenus"
-Mullidae	Upeneichthys	porosus	Goatfish/red mullet	Upe.lin	363	5	100	fishbase.org appears to disagree with FONZ and Kim (2002) and has this as U. lineatus. Te Papa insists.
-Nototheniidae	Notothenia	angustata	Maori chief	Not.ang	470	0	100	NA
-Odacidae	Odax	cyanoallix	Blue-finned butterfish	Oda.cya	355	NA	16	NA
-Odacidae	Odax	pullus	Butterfish	Oda.pul	700	NA	NA	NA
-Pempheridae	Pempheris	adspersa	Bigeye	Pem.ads	170	0	70	NA
-Pempheridae	Pempheris	analis	Bronze sweeper/bullseye	Pem.ana	170	5	40	NA
-Pentacerotidae	Evistias	acutirostris	Striped boarfish	Evi.acu	415	18	193	NA
-Pentacerotidae	Zanclistius	elevatus	Long-finned boarfish	Zan.ele	350	30	500	NA
-Pentacerotidae	Paristiopterus	labiosus	Giant boarfish	Par.lab	900	20	170	NA
-Pinguipedidae	Parapercis	colias	Blue cod	Par.col	600	52	150	NA
-Pomacentridae	Chromis	dispilus	Demoiselle	Chr.dis	170	0	60	NA
-Pomacentridae	Chromis	hypsilepis	Singlespot demoiselle	Chr.hyp	150	3	46	NA
-Pomacentridae	Chrysiptera	rapanui	Easter/Kermedec damselfish	Chr.rap	61	3	38	NA
-Pomacentridae	Parma	alboscapularis	Black angelfish	Par.alb	230	5	40	NA
-Pomacentridae	Parma	kermadecensis	Kermadec scalyfin	Par.ker	221	3	20	NA
-Pomacentridae	Stegastes	fasciolatus	Pacific gregory	Ste.fas	160	1	30	NA
-Serranidae	Acanthistius	cinctus	Yellowbanded perch	Aca.cin	450	30	NA	NA
-Serranidae	Aulacocephalus	temminckii	Gold-ribbon grouper	Aul.tem	350	20	350	Corrected from A. temmincki
-Serranidae	Caesioperca	lepidoptera	Butterfly perch	Cae.lep	318	10	140	NA
-Serranidae	Caprodon	longimanus	Pink maomao	Cap.lon	440	0	400	NA
-Serranidae	Epinephelus	daemelii	Spotted black grouper	Epi.dae	1700	NA	50	NA
-Serranidae	Hypoplectrodes	coronatus	Half-banded perch A/eyebrow perch	Hyp.spA	470	NA	NA	Not in fishbase.org that I can see. FONZ refers to an as-yet-unpublished Roberts paper in Zootaxa with "south pacific banded perches" in the title. AKA H. sp. A.
-Serranidae	Hypoplectrodes	dimidius	Half-banded perch B	Hyp.spB	143	NA	NA	Not in fishbase.org that I can see. FONZ refers to an as-yet-unpublished Roberts paper in Zootaxa with "south pacific banded perches" in the title. AKA H. sp. B.
-Serranidae	Hypoplectrodes	huntii	Red-banded perch	Hyp.hun	200	0	100	NA
-Serranidae	Trachypoma	macracanthus	Toadstool grouper	Tra.mac	300	NA	45	NA
-Sparidae	Chrysophrys	auratus	Snapper	Pag.aur	1300	0	200	FONZ has this as "Chrysophrys auratus"
-Thalasseleotrididae	Grahamichthys	radiata	Graham's gudgeon	Gra.rad	58	0	50	Te Papa says radiata; fishbase says radiatus
-Thalasseleotrididae	Thalasseleotris	adela	Pygmy sleeper	Tha.sp.	32.6	1	20	NA
-Tripterygiidae	Bellapiscis	lesleyae	Mottled twister	Bel.les	65	0	5	NA
-Tripterygiidae	Bellapiscis	medius	Twister	Bel.med	85	0	5	NA
-Tripterygiidae	Blennodon	dorsalis	Giant triplefin	Ble.dor	170	0	8	NA
-Tripterygiidae	Enneapterygius	kermadecensis	Kermadec triplefin	Ker.tri	33	0	2	NA
-Tripterygiidae	Forsterygion	capito	Spotted/Mottled triplefin	Gra.cap	91	0	12	NA
-Tripterygiidae	Forsterygion	flavonigrum	Yellow-black triplefin	Fst.fla	53	4	110	NA
-Tripterygiidae	Forsterygion	gymnotum	Robust triplefin	Gra.gym	90	0	7	NA
-Tripterygiidae	Forsterygion	lapillum	Common triplefin	For.lap	84	0	20	NA
-Tripterygiidae	Forsterygion	malcolmi	Banded triplefin	For.mal	130	2	35	NA
-Tripterygiidae	Forsterygion	maryannae	Oblique-swimming triplefin	Obl.mar	70	1	50	NA
-Tripterygiidae	Forsterygion	nigripenne	Estuarine triplefin	Gra.nig	90	NA	NA	NA
-Tripterygiidae	Forsterygion	varium	Variable triplefin	For.var	133	0	33	NA
-Tripterygiidae	Gilloblennius	abditus	Obscure triplefin	Gil.abd	74	0	10	NA
-Tripterygiidae	Gilloblennius	tripennis	Thripenny	Gil.tri	113	0	20	NA
-Tripterygiidae	Karalepis	stewarti	Scaly-headed triplefin	Kar.ste	127	0	33	NA
-Tripterygiidae	Notoclinops	caerulepunctus	Blue dot triplefin	Not.cae	38	0	40	NA
-Tripterygiidae	Notoclinops	segmentatus	Blue-eyed triplefin	Not.seg	47	0	40	NA
-Tripterygiidae	Notoclinops	yaldwyni	Yaldwyn's triplefin	Not.yal	55	0	20	NA
-Tripterygiidae	Ruanoho	decemdigitatus	Long-finned triplefin	Rua.dec	120	0	6	NA
-Tripterygiidae	Ruanoho	whero	Spectacled triplefin	Rua.whe	102	0	21	NA
-Congiopodidae	Congiopodus	leucopaecilus	Pygmy scorpionfish	Con.leu	262	22	222	NA
-Scorpaenidae	Pterois	volitans	Red lionfish	Pte.vol	350	2	55	NA
-Scorpaenidae	Scorpaena	cardinalis	Northern scorpionfish/Red rock cod	Sco.car	500	0	154	NA
-Scorpaenidae	Scorpaena	papillosa	Dwarf/red scorpionfish	Sco.pap	220	5	50	NA
-Scorpaenidae	Scorpaenodes	scaber	Pygmy scorpionfish	Sco.sca	120	3	30	NA
-Sebastidae	Helicolenus	percoides	Sea perch	Hel.per	430	50	750	NA
-Triglidae	Chelidonichthys	kumu	Bluefin gurnard	Che.kum	NA	NA	NA	NA
-Aulostomidae	Aulostomus	chinensis	Chinese trumpetfish	Aul.chi	760	3	122	NA
-Syngnathidae	Hippocampus	abdominalis	Seahorse	Hip.abd	210	0	104	NA
-Syngnathidae	Solegnathus	spinosissimus	Spiny sea dragon	Sol.spi	500	114	230	NA
-Syngnathidae	Stigmatopora	macropterygia	Smooth pipefish	Sti.mac	400	NA	NA	NA
-Diodontidae	Allomycterus	pilatus	Porcupinefish	All.jac	500	40	270	NA
-Monacanthidae	Meuschenia	scaber	Leatherjacket	Par.sca	336	20	200	NA
-Monacanthidae	Thamnaconus	analis	Morse code/Darkvent leatherjacket	Tha.ana	223	46	360	NA
-Ostraciidae	Ostracion	cubicus	Yellow boxfish	Ost.cub	450	1	280	Te Papa says cubicus; fishbase says cubica
-Tetraodontidae	Canthigaster	callisterna	Clown toado	Can.cal	170	NA	250	NA
-Zeidae	Zeus	faber	John dory	Zeu.fab	900	5	400	NA
+!Family	Genus	Species	Code
+Myxinidae	Eptatretus	cirrhatus	Eptcir
+Carcharhinidae	Carcharhinus	brachyurus	Carbra
+Carcharhinidae	Carcharhinus	galapagensis	Cargal
+Scyliorhinidae	Cephaloscyllium	isabellum	Cepisa
+Triakidae	Galeorhinus	galeus	Galgal
+Triakidae	Mustelus	lenticulatus	Muslen
+Hexanchidae	Notorynchus	cepedianus	Notcep
+Dasyatidae	Bathytoshia	brevicaudata	Dasbre
+Dasyatidae	Bathytoshia	lata	Dasthe
+Myliobatidae	Myliobatis	tenuicaudatus	Mylten
+Squalidae	Squalus	acanthias	Squaca
+Percophidae	Hemerocoetes	monopterygius	Hemmon
+Polyprionidae	Polyprion	oxygeneios	Poloxy
+Congridae	Conger	verreauxi	Conver
+Congridae	Conger	wilsoni	Conwil
+Muraenidae	Enchelycore	ramosa	Encram
+Muraenidae	Gymnothorax	nubilus	Gymnub
+Muraenidae	Gymnothorax	obesus	Gymobe
+Muraenidae	Gymnothorax	porphyreus	Gympor
+Muraenidae	Gymnothorax	prasinus	Gympra
+Muraenidae	Gymnothorax	prionodon	Gympri
+Synodontidae	Synodus	doaki	Syndoa
+Synodontidae	Synodus	similis	Synsim
+Hemiramphidae	Hyporhamphus	ihi	Hypihi
+Berycidae	Centroberyx	affinis	Cenaff
+Holocentridae	Pristilepis	oligolepis	Priris
+Trachichthyidae	Optivus	elongatus	Optelo
+Trachichthyidae	Paratrachichthys	trailli	Partra
+Moridae	Lotella	phycis	Lotphy
+Moridae	Lotella	rhacina	Lotrha
+Moridae	Pseudophycis	bachus	Psebac
+Moridae	Pseudophycis	barbata	Psebar
+Moridae	Pseudophycis	breviuscula	Psebre
+Aplodactylidae	Aplodactylus	arctidens	Aplarc
+Aplodactylidae	Aplodactylus	etheridgii	Apleth
+Apogonidae	Ostorhinchus	doederleini	Apodoe
+Arripidae	Arripis	trutta	Arrtru
+Arripidae	Arripis	xylabion	Arrxyl
+Blenniidae	Cirripectes	alboapicalis	Ciralb
+Blenniidae	Parablennius	laticlavius	Parlat
+Blenniidae	Plagiotremus	tapeinosoma	Platap
+Bovichtidae	Bovichtus	variegatus	Bovvar
+Callanthiidae	Callanthias	allporti	Calall
+Callanthiidae	Callanthias	australis	Calaus
+Carangidae	Decapterus	koheru	Deckoh
+Carangidae	Decapterus	muroadsi	Decmur
+Carangidae	Pseudocaranx	dentex	Pseden
+Carangidae	Seriola	lalandi	Serlal
+Carangidae	Seriola	rivoliana	Serriv
+Carangidae	Trachurus	novaezelandiae	Trasp.
+Centrolophidae	Seriolella	brama	Serbra
+Chaetodontidae	Amphichaetodon	howensis	Amphow
+Chaetodontidae	Forcipiger	flavissimus	Fcpfla
+Cheilodactylidae	Chirodactylus	spectabilis	Chespe
+Cheilodactylidae	Goniistius	francisi	Chefra
+Cheilodactylidae	Morwong	ephippium	Cheeph
+Cheilodactylidae	Nemadactylus	douglasii	Nemdou
+Cheilodactylidae	Nemadactylus	macropterus	Nemmac
+Cheilodactylidae	Pseudogoniistius	nigripes	Chenig
+Chironemidae	Chironemus	marmoratus	Chimar
+Cirrhitidae	Notocirrhitus	splendens	Cirspl
+Emmelichthyidae	Plagiogeneion	rubiginosum	Plarub
+Gobiidae	Gobiopsis	atrata	Gobatr
+Kyphosidae	Atypichthys	latus	Atylat
+Kyphosidae	Bathystethus	cultratus	Batcul
+Kyphosidae	Girella	cyanea	Gircya
+Kyphosidae	Girella	fimbriata	Girfim
+Kyphosidae	Girella	tricuspidata	Girtri
+Kyphosidae	Kyphosus	bigibbus	Kypbig
+Kyphosidae	Kyphosus	sydneyanus	Kypsyd
+Kyphosidae	Labracoglossa	nitida	Labnit
+Kyphosidae	Scorpis	lineolata	Scolin
+Kyphosidae	Scorpis	violacea	Scovio
+Labridae	Anampses	caeruleopunctatus	Anacae
+Labridae	Anampses	elegans	Anaele
+Labridae	Bodianus	flavipinnis	Bodfla
+Labridae	Bodianus	unimaculatus	Bodvul
+Labridae	Coris	picta	Corpic
+Labridae	Coris	sandeyeri	Corsan
+Labridae	Notolabrus	celidotus	Notcel
+Labridae	Notolabrus	cinctus	Notcin
+Labridae	Notolabrus	fucicola	Notfuc
+Labridae	Notolabrus	inscriptus	Notins
+Labridae	Pseudolabrus	luculentus	Pseluc
+Labridae	Pseudolabrus	miles	Psemil
+Labridae	Suezichthys	arquatus	Suearq
+Labridae	Suezichthys	aylingi	Sueayl
+Labridae	Thalassoma	amblycephalum	Thaamb
+Labridae	Thalassoma	lutescens	Thalut
+Labridae	Thalassoma	trilobatum	Thatri
+Latridae	Latridopsis	ciliaris	Latcil
+Latridae	Latridopsis	forsteri	Latfor
+Latridae	Latris	lineata	Latlin
+Latridae	Mendosoma	lineatum	Menlin
+Mugilidae	Aldrichetta	forsteri	Aldfor
+Mullidae	Mulloidichthys	vanicolensis	Mulvan
+Mullidae	Parupeneus	ciliatus	Parcil
+Mullidae	Parupeneus	spilurus	Parspi
+Mullidae	Upeneichthys	porosus	Upelin
+Nototheniidae	Notothenia	angustata	Notang
+Odacidae	Odax	cyanoallix	Odacya
+Odacidae	Odax	pullus	Odapul
+Pempheridae	Pempheris	adspersa	Pemads
+Pempheridae	Pempheris	analis	Pemana
+Pentacerotidae	Evistias	acutirostris	Eviacu
+Pentacerotidae	Zanclistius	elevatus	Zanele
+Pentacerotidae	Paristiopterus	labiosus	Parlab
+Pinguipedidae	Parapercis	colias	Parcol
+Pomacentridae	Chromis	dispilus	Chrdis
+Pomacentridae	Chromis	hypsilepis	Chrhyp
+Pomacentridae	Chrysiptera	rapanui	Chrrap
+Pomacentridae	Parma	alboscapularis	Paralb
+Pomacentridae	Parma	kermadecensis	Parker
+Pomacentridae	Stegastes	fasciolatus	Stefas
+Serranidae	Acanthistius	cinctus	Acacin
+Serranidae	Aulacocephalus	temminckii	Aultem
+Serranidae	Caesioperca	lepidoptera	Caelep
+Serranidae	Caprodon	longimanus	Caplon
+Serranidae	Epinephelus	daemelii	Epidae
+Serranidae	Hypoplectrodes	coronatus	HypspA
+Serranidae	Hypoplectrodes	dimidius	HypspB
+Serranidae	Hypoplectrodes	huntii	Hyphun
+Serranidae	Trachypoma	macracanthus	Tramac
+Sparidae	Chrysophrys	auratus	Pagaur
+Thalasseleotrididae	Grahamichthys	radiata	Grarad
+Thalasseleotrididae	Thalasseleotris	adela	Thasp.
+Tripterygiidae	Bellapiscis	lesleyae	Belles
+Tripterygiidae	Bellapiscis	medius	Belmed
+Tripterygiidae	Blennodon	dorsalis	Bledor
+Tripterygiidae	Enneapterygius	kermadecensis	Kertri
+Tripterygiidae	Forsterygion	capito	Gracap
+Tripterygiidae	Forsterygion	flavonigrum	Fstfla
+Tripterygiidae	Forsterygion	gymnotum	Gragym
+Tripterygiidae	Forsterygion	lapillum	Forlap
+Tripterygiidae	Forsterygion	malcolmi	Formal
+Tripterygiidae	Forsterygion	maryannae	Oblmar
+Tripterygiidae	Forsterygion	nigripenne	Granig
+Tripterygiidae	Forsterygion	varium	Forvar
+Tripterygiidae	Gilloblennius	abditus	Gilabd
+Tripterygiidae	Gilloblennius	tripennis	Giltri
+Tripterygiidae	Karalepis	stewarti	Karste
+Tripterygiidae	Notoclinops	caerulepunctus	Notcae
+Tripterygiidae	Notoclinops	segmentatus	Notseg
+Tripterygiidae	Notoclinops	yaldwyni	Notyal
+Tripterygiidae	Ruanoho	decemdigitatus	Ruadec
+Tripterygiidae	Ruanoho	whero	Ruawhe
+Congiopodidae	Congiopodus	leucopaecilus	Conleu
+Scorpaenidae	Pterois	volitans	Ptevol
+Scorpaenidae	Scorpaena	cardinalis	Scocar
+Scorpaenidae	Scorpaena	papillosa	Scopap
+Scorpaenidae	Scorpaenodes	scaber	Scosca
+Sebastidae	Helicolenus	percoides	Helper
+Triglidae	Chelidonichthys	kumu	Chekum
+Aulostomidae	Aulostomus	chinensis	Aulchi
+Syngnathidae	Hippocampus	abdominalis	Hipabd
+Syngnathidae	Solegnathus	spinosissimus	Solspi
+Syngnathidae	Stigmatopora	macropterygia	Stimac
+Diodontidae	Allomycterus	pilatus	Alljac
+Monacanthidae	Meuschenia	scaber	Parsca
+Monacanthidae	Thamnaconus	analis	Thaana
+Ostraciidae	Ostracion	cubicus	Ostcub
+Tetraodontidae	Canthigaster	callisterna	Cancal
+Zeidae	Zeus	faber	Zeufab

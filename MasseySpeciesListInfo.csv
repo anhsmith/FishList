@@ -1,164 +1,166 @@
-!Family,Genus,Species,Code,CommonName,Size,MinDepth,MaxDepth,commonname,TaxonomicNotes
-Myxinidae,Eptatretus,cirrhatus,Eptcir,Hagfish,970,0,1100,Hagfish,NA
-Carcharhinidae,Carcharhinus,brachyurus,Carbra,Bronze whaler shark,3300,0,360,Bronze whaler shark,NA
-Carcharhinidae,Carcharhinus,galapagensis,Cargal,Galapagos shark,3700,1,286,Galapagos shark,NA
-Scyliorhinidae,Cephaloscyllium,isabellum,Cepisa,Carpet shark,905,5,690,Carpet shark,Changed from C. isabella; source: Te Papa; fishbase says isabella
-Triakidae,Galeorhinus,galeus,Galgal,School shark,1750,0,1100,School shark,NA
-Triakidae,Mustelus,lenticulatus,Muslen,Rig,NA,NA,NA,Rig,NA
-Hexanchidae,Notorynchus,cepedianus,Notcep,Broadsnout sevengill,NA,NA,NA,Broadsnout sevengill,NA
-Dasyatidae,Bathytoshia,brevicaudata,Dasbre,Short-tailed stingray,4300,0,476,Short-tailed stingray,Changed from ""Dasyatis brev""; source fishbase
-Dasyatidae,Bathytoshia,lata,Dasthe,Long-tailed stingray,3300,0,440,Long-tailed stingray,Changed from ""Dasyatis thetidis""; source fishbase
-Myliobatidae,Myliobatis,tenuicaudatus,Mylten,Eagle ray,1050,0,160,Eagle ray,Corrected from ""Myliobatus""
-Squalidae,Squalus,acanthias,Squaca,Spiny dogfish,1200,0,1460,Spiny dogfish,NA
-Percophidae,Hemerocoetes,monopterygius,Hemmon,Opalfish,NA,NA,NA,Opalfish,NA
-Polyprionidae,Polyprion,oxygeneios,Poloxy,Hapuku,NA,NA,NA,Hapuku,NA
-Congridae,Conger,verreauxi,Conver,Common conger eel,2000,NA,45,Common conger eel,NA
-Congridae,Conger,wilsoni,Conwil,Northern conger eel,904,NA,30,Northern conger eel,NA
-Muraenidae,Enchelycore,ramosa,Encram,Mosaic moray,1800,NA,NA,Mosaic moray,NA
-Muraenidae,Gymnothorax,nubilus,Gymnub,Grey moray,820,NA,NA,Grey moray,NA
-Muraenidae,Gymnothorax,obesus,Gymobe,Speckled moray,1720,NA,NA,Speckled moray,NA
-Muraenidae,Gymnothorax,porphyreus,Gympor,Lowfin moray,1060,1,40,Lowfin moray,NA
-Muraenidae,Gymnothorax,prasinus,Gympra,Yellow moray,1500,NA,NA,Yellow moray,NA
-Muraenidae,Gymnothorax,prionodon,Gympri,Mottled moray,870,NA,NA,Mottled moray,NA
-Synodontidae,Synodus,doaki,Syndoa,Red lizardfish,244,9,260,Red lizardfish,NA
-Synodontidae,Synodus,similis,Synsim,Lavender lizardfish,185,25,76,Lavender lizardfish,NA
-Hemiramphidae,Hyporhamphus,ihi,Hypihi,Garfish/piper,400,NA,NA,Garfish/piper,NA
-Berycidae,Centroberyx,affinis,Cenaff,Golden snapper,435,10,450,Golden snapper,NA
-Holocentridae,Pristilepis,oligolepis,Priris,Unknown leaffish/Rough squirrelfish,252,14,220,Unknown leaffish/Rough squirrelfish,NA
-Trachichthyidae,Optivus,elongatus,Optelo,Slender roughy,120,0,70,Slender roughy,NA
-Trachichthyidae,Paratrachichthys,trailli,Partra,Common roughy,250,20,500,Common roughy,NA
-Moridae,Lotella,phycis,Lotphy,Beardie,195,NA,NA,Beardie,NA
-Moridae,Lotella,rhacina,Lotrha,Rock cod,342,10,90,Rock cod,Corrected from ""L. rhacinus""
-Moridae,Pseudophycis,bachus,Psebac,Red cod,650,26,700,Red cod,NA
-Moridae,Pseudophycis,barbata,Psebar,Southern bastard cod,620,0,300,Southern bastard cod,NA
-Moridae,Pseudophycis,breviuscula,Psebre,Northern bastard codling,151,0,220,Northern bastard codling,NA
-Aplodactylidae,Aplodactylus,arctidens,Aplarc,Marblefish,570,0,40,Marblefish,NA
-Aplodactylidae,Aplodactylus,etheridgii,Apleth,Notch-head marblefish,464,6,20,Notch-head marblefish,NA
-Apogonidae,Ostorhinchus,doederleini,Apodoe,Doederlein's cardinalfish,140,0,10,Doederlein's cardinalfish,Corrected from ""Apogon""
-Arripidae,Arripis,trutta,Arrtru,Kahawai,890,30,39,Kahawai,NA
-Arripidae,Arripis,xylabion,Arrxyl,Kahawai (Kermadecs),900,NA,NA,Kahawai (Kermadecs),NA
-Blenniidae,Cirripectes,alboapicalis,Ciralb,White-dot blenny,155,0,10,White-dot blenny,NA
-Blenniidae,Parablennius,laticlavius,Parlat,Crested blenny,69,1,3,Crested blenny,NA
-Blenniidae,Plagiotremus,tapeinosoma,Platap,Mimic blenny,110,1,45,Mimic blenny,NA
-Bovichtidae,Bovichtus,variegatus,Bovvar,Thornfish,267,NA,NA,Thornfish,NA
-Callanthiidae,Callanthias,allporti,Calall,Southern splendid perch,260,20,100,Southern splendid perch,NA
-Callanthiidae,Callanthias,australis,Calaus,Northern splendid perch,280,15,365,Northern splendid perch,NA
-Carangidae,Decapterus,koheru,Deckoh,Koheru,370,0,55,Koheru,NA
-Carangidae,Decapterus,muroadsi,Decmur,Amberstripe scad,450,1,320,Amberstripe scad,NA
-Carangidae,Pseudocaranx,dentex,Pseden,Trevally,827,10,238,Trevally,NA
-Carangidae,Seriola,lalandi,Serlal,Kingfish,1930,3,825,Kingfish,NA
-Carangidae,Seriola,rivoliana,Serriv,Almaco jack,1570,5,245,Almaco jack,NA
-Carangidae,Trachurus,novaezelandiae,Trasp.,Jack mackerel,500,22,500,Jack mackerel,NA
-Centrolophidae,Seriolella,brama,Serbra,Common warehou,600,22,400,Common warehou,NA
-Chaetodontidae,Amphichaetodon,howensis,Amphow,Lord Howe butterflyfish/coralfish,200,10,150,Lord Howe butterflyfish/coralfish,NA
-Chaetodontidae,Forcipiger,flavissimus,Fcpfla,Longnose butterflyfish,180,2,145,Longnose butterflyfish,NA
-Cheilodactylidae,Chirodactylus,spectabilis,Chespe,Red moki,700,1,50,Red moki,Changed from Cheilodactylus; source: Te Papa
-Cheilodactylidae,Goniistius,francisi,Chefra,Blacktip/masked morwong,274,6,88,Blacktip/masked morwong,Changed from Cheilodactylus; source: Te Papa
-Cheilodactylidae,Morwong,ephippium,Cheeph,Painted moki,410,0,250,Painted moki,Changed from Cheilodactylus; source: Te Papa
-Cheilodactylidae,Nemadactylus,douglasii,Nemdou,Porae,600,0,200,Porae,NA
-Cheilodactylidae,Nemadactylus,macropterus,Nemmac,Tarakihi,500,22,450,Tarakihi,NA
-Cheilodactylidae,Pseudogoniistius,nigripes,Chenig,Magpie perch/morwong,410,NA,65,Magpie perch/morwong,Changed from Cheilodactylus; source: Te Papa
-Chironemidae,Chironemus,marmoratus,Chimar,Hiwihiwi,400,0,30,Hiwihiwi,NA
-Cirrhitidae,Notocirrhitus,splendens,Cirspl,Splendid hawkfish,250,NA,NA,Splendid hawkfish,NA
-Emmelichthyidae,Plagiogeneion,rubiginosum,Plarub,Rubyfish,470,50,600,Rubyfish,Corrected from P. -sus
-Gobiidae,Gobiopsis,atrata,Gobatr,New Zealand black goby,85,0,30,New Zealand black goby,NA
-Kyphosidae,Atypichthys,latus,Atylat,Mado,225,NA,NA,Mado,NA
-Kyphosidae,Bathystethus,cultratus,Batcul,Grey knifefish,350,NA,NA,Grey knifefish,NA
-Kyphosidae,Girella,cyanea,Gircya,Bluefish,510,6,NA,Bluefish,NA
-Kyphosidae,Girella,fimbriata,Girfim,Caramel drummer,335,6,NA,Caramel drummer,NA
-Kyphosidae,Girella,tricuspidata,Girtri,Parore,393,0,20,Parore,NA
-Kyphosidae,Kyphosus,bigibbus,Kypbig,Grey/Dark-fin drummer,527,2,NA,Grey/Dark-fin drummer,NA
-Kyphosidae,Kyphosus,sydneyanus,Kypsyd,Silver drummer,652,1,20,Silver drummer,NA
-Kyphosidae,Labracoglossa,nitida,Labnit,Blue knifefish,241,0,NA,Blue knifefish,NA
-Kyphosidae,Scorpis,lineolata,Scolin,Sweep,363,1,30,Sweep,NA
-Kyphosidae,Scorpis,violacea,Scovio,Blue maomao,400,0,30,Blue maomao,Corrected from ""Scorpis violaceus""
-Labridae,Anampses,caeruleopunctatus,Anacae,Blue-spotted wrasse,420,3,30,Blue-spotted wrasse,NA
-Labridae,Anampses,elegans,Anaele,Elegant wrasse,300,2,35,Elegant wrasse,NA
-Labridae,Bodianus,flavipinnis,Bodfla,Yellowfin pigfish/foxfish,368,157,250,Yellowfin pigfish/foxfish,NA
-Labridae,Bodianus,unimaculatus,Bodvul,Red pigfish,375,0,60,Red pigfish,NA
-Labridae,Coris,picta,Corpic,Combfish,250,NA,NA,Combfish,NA
-Labridae,Coris,sandeyeri,Corsan,Sandager's wrasse,327,NA,60,Sandager's wrasse,Corrected from ""C. sandageri""
-Labridae,Notolabrus,celidotus,Notcel,Spotty,240,22,145,Spotty,NA
-Labridae,Notolabrus,cinctus,Notcin,Girdled wrasse,360,40,91,Girdled wrasse,NA
-Labridae,Notolabrus,fucicola,Notfuc,Banded wrasse,500,NA,NA,Banded wrasse,NA
-Labridae,Notolabrus,inscriptus,Notins,Green wrasse,325,NA,NA,Green wrasse,NA
-Labridae,Pseudolabrus,luculentus,Pseluc,Orange wrasse,170,10,50,Orange wrasse,NA
-Labridae,Pseudolabrus,miles,Psemil,Scarlet wrasse,350,4,40,Scarlet wrasse,NA
-Labridae,Suezichthys,arquatus,Suearq,Rainbow slender wrasse,140,13,100,Rainbow slender wrasse,NA
-Labridae,Suezichthys,aylingi,Sueayl,Crimson cleanerfish,130,6,100,Crimson cleanerfish,NA
-Labridae,Thalassoma,amblycephalum,Thaamb,Blunt-headed/two-tone wrasse,160,1,15,Blunt-headed/two-tone wrasse,NA
-Labridae,Thalassoma,lutescens,Thalut,Yellow-brown/sunset wrasse,250,1,30,Yellow-brown/sunset wrasse,NA
-Labridae,Thalassoma,trilobatum,Thatri,Christmas/ladder wrasse,300,0,10,Christmas/ladder wrasse,NA
-Latridae,Latridopsis,ciliaris,Latcil,Blue moki,800,10,NA,Blue moki,NA
-Latridae,Latridopsis,forsteri,Latfor,Copper moki,650,20,160,Copper moki,NA
-Latridae,Latris,lineata,Latlin,Trumpeter,1200,5,400,Trumpeter,NA
-Latridae,Mendosoma,lineatum,Menlin,Telescope fish,366,0,20,Telescope fish,NA
-Mugilidae,Aldrichetta,forsteri,Aldfor,Yellow-eyed mullet,360,0,50,Yellow-eyed mullet,NA
-Mullidae,Mulloidichthys,vanicolensis,Mulvan,Yellow goatfish,380,1,113,Yellow goatfish,NA
-Mullidae,Parupeneus,ciliatus,Parcil,Whitesaddle goatfish,380,2,91,Whitesaddle goatfish,NA
-Mullidae,Parupeneus,spilurus,Parspi,Blackspot goatfish,272,10,80,Blackspot goatfish,Corrected from ""Parupenus""
-Mullidae,Upeneichthys,porosus,Upelin,Goatfish/red mullet,363,5,100,Goatfish/red mullet,fishbase.org appears to disagree with FONZ and Kim (2002) and has this as U. lineatus. Te Papa insists.
-Nototheniidae,Notothenia,angustata,Notang,Maori chief,470,0,100,Maori chief,NA
-Odacidae,Odax,cyanoallix,Odacya,Blue-finned butterfish,355,NA,16,Blue-finned butterfish,NA
-Odacidae,Odax,pullus,Odapul,Butterfish,700,NA,NA,Butterfish,NA
-Pempheridae,Pempheris,adspersa,Pemads,Bigeye,170,0,70,Bigeye,NA
-Pempheridae,Pempheris,analis,Pemana,Bronze sweeper/bullseye,170,5,40,Bronze sweeper/bullseye,NA
-Pentacerotidae,Evistias,acutirostris,Eviacu,Striped boarfish,415,18,193,Striped boarfish,NA
-Pentacerotidae,Zanclistius,elevatus,Zanele,Long-finned boarfish,350,30,500,Long-finned boarfish,NA
-Pentacerotidae,Paristiopterus,labiosus,Parlab,Giant boarfish,900,20,170,Giant boarfish,NA
-Pinguipedidae,Parapercis,colias,Parcol,Blue cod,600,52,150,Blue cod,NA
-Pomacentridae,Chromis,dispilus,Chrdis,Demoiselle,170,0,60,Demoiselle,NA
-Pomacentridae,Chromis,hypsilepis,Chrhyp,Singlespot demoiselle,150,3,46,Singlespot demoiselle,NA
-Pomacentridae,Chrysiptera,rapanui,Chrrap,Easter/Kermedec damselfish,61,3,38,Easter/Kermedec damselfish,NA
-Pomacentridae,Parma,alboscapularis,Paralb,Black angelfish,230,5,40,Black angelfish,NA
-Pomacentridae,Parma,kermadecensis,Parker,Kermadec scalyfin,221,3,20,Kermadec scalyfin,NA
-Pomacentridae,Stegastes,fasciolatus,Stefas,Pacific gregory,160,1,30,Pacific gregory,NA
-Serranidae,Acanthistius,cinctus,Acacin,Yellowbanded perch,450,30,NA,Yellowbanded perch,NA
-Serranidae,Aulacocephalus,temminckii,Aultem,Gold-ribbon grouper,350,20,350,Gold-ribbon grouper,Corrected from A. temmincki
-Serranidae,Caesioperca,lepidoptera,Caelep,Butterfly perch,318,10,140,Butterfly perch,NA
-Serranidae,Caprodon,longimanus,Caplon,Pink maomao,440,0,400,Pink maomao,NA
-Serranidae,Epinephelus,daemelii,Epidae,Spotted black grouper,1700,NA,50,Spotted black grouper,NA
-Serranidae,Hypoplectrodes,coronatus,HypspA,Half-banded perch A/eyebrow perch,470,NA,NA,Half-banded perch A/eyebrow perch,Not in fishbase.org that I can see. FONZ refers to an as-yet-unpublished Roberts paper in Zootaxa with ""south pacific banded perches"" in the title. AKA H. sp. A.
-Serranidae,Hypoplectrodes,dimidius,HypspB,Half-banded perch B,143,NA,NA,Half-banded perch B,Not in fishbase.org that I can see. FONZ refers to an as-yet-unpublished Roberts paper in Zootaxa with ""south pacific banded perches"" in the title. AKA H. sp. B.
-Serranidae,Hypoplectrodes,huntii,Hyphun,Red-banded perch,200,0,100,Red-banded perch,NA
-Serranidae,Trachypoma,macracanthus,Tramac,Toadstool grouper,300,NA,45,Toadstool grouper,NA
-Sparidae,Chrysophrys,auratus,Pagaur,Snapper,1300,0,200,Snapper,FONZ has this as ""Chrysophrys auratus""
-Thalasseleotrididae,Grahamichthys,radiata,Grarad,Graham's gudgeon,58,0,50,Graham's gudgeon,Te Papa says radiata; fishbase says radiatus
-Thalasseleotrididae,Thalasseleotris,adela,Thasp.,Pygmy sleeper,32.6,1,20,Pygmy sleeper,NA
-Tripterygiidae,Bellapiscis,lesleyae,Belles,Mottled twister,65,0,5,Mottled twister,NA
-Tripterygiidae,Bellapiscis,medius,Belmed,Twister,85,0,5,Twister,NA
-Tripterygiidae,Blennodon,dorsalis,Bledor,Giant triplefin,170,0,8,Giant triplefin,NA
-Tripterygiidae,Enneapterygius,kermadecensis,Kertri,Kermadec triplefin,33,0,2,Kermadec triplefin,NA
-Tripterygiidae,Forsterygion,capito,Gracap,Spotted/Mottled triplefin,91,0,12,Spotted/Mottled triplefin,NA
-Tripterygiidae,Forsterygion,flavonigrum,Fstfla,Yellow-black triplefin,53,4,110,Yellow-black triplefin,NA
-Tripterygiidae,Forsterygion,gymnotum,Gragym,Robust triplefin,90,0,7,Robust triplefin,NA
-Tripterygiidae,Forsterygion,lapillum,Forlap,Common triplefin,84,0,20,Common triplefin,NA
-Tripterygiidae,Forsterygion,malcolmi,Formal,Banded triplefin,130,2,35,Banded triplefin,NA
-Tripterygiidae,Forsterygion,maryannae,Oblmar,Oblique-swimming triplefin,70,1,50,Oblique-swimming triplefin,NA
-Tripterygiidae,Forsterygion,nigripenne,Granig,Estuarine triplefin,90,NA,NA,Estuarine triplefin,NA
-Tripterygiidae,Forsterygion,varium,Forvar,Variable triplefin,133,0,33,Variable triplefin,NA
-Tripterygiidae,Gilloblennius,abditus,Gilabd,Obscure triplefin,74,0,10,Obscure triplefin,NA
-Tripterygiidae,Gilloblennius,tripennis,Giltri,Thripenny,113,0,20,Thripenny,NA
-Tripterygiidae,Karalepis,stewarti,Karste,Scaly-headed triplefin,127,0,33,Scaly-headed triplefin,NA
-Tripterygiidae,Notoclinops,caerulepunctus,Notcae,Blue dot triplefin,38,0,40,Blue dot triplefin,NA
-Tripterygiidae,Notoclinops,segmentatus,Notseg,Blue-eyed triplefin,47,0,40,Blue-eyed triplefin,NA
-Tripterygiidae,Notoclinops,yaldwyni,Notyal,Yaldwyn's triplefin,55,0,20,Yaldwyn's triplefin,NA
-Tripterygiidae,Ruanoho,decemdigitatus,Ruadec,Long-finned triplefin,120,0,6,Long-finned triplefin,NA
-Tripterygiidae,Ruanoho,whero,Ruawhe,Spectacled triplefin,102,0,21,Spectacled triplefin,NA
-Congiopodidae,Congiopodus,leucopaecilus,Conleu,Pygmy scorpionfish,262,22,222,Pygmy scorpionfish,NA
-Scorpaenidae,Pterois,volitans,Ptevol,Red lionfish,350,2,55,Red lionfish,NA
-Scorpaenidae,Scorpaena,cardinalis,Scocar,Northern scorpionfish/Red rock cod,500,0,154,Northern scorpionfish/Red rock cod,NA
-Scorpaenidae,Scorpaena,papillosa,Scopap,Dwarf/red scorpionfish,220,5,50,Dwarf/red scorpionfish,NA
-Scorpaenidae,Scorpaenodes,scaber,Scosca,Pygmy scorpionfish,120,3,30,Pygmy scorpionfish,NA
-Sebastidae,Helicolenus,percoides,Helper,Sea perch,430,50,750,Sea perch,NA
-Triglidae,Chelidonichthys,kumu,Chekum,Bluefin gurnard,NA,NA,NA,Bluefin gurnard,NA
-Aulostomidae,Aulostomus,chinensis,Aulchi,Chinese trumpetfish,760,3,122,Chinese trumpetfish,NA
-Syngnathidae,Hippocampus,abdominalis,Hipabd,Seahorse,210,0,104,Seahorse,NA
-Syngnathidae,Solegnathus,spinosissimus,Solspi,Spiny sea dragon,500,114,230,Spiny sea dragon,NA
-Syngnathidae,Stigmatopora,macropterygia,Stimac,Smooth pipefish,400,NA,NA,Smooth pipefish,NA
-Diodontidae,Allomycterus,pilatus,Alljac,Porcupinefish,500,40,270,Porcupinefish,NA
-Monacanthidae,Meuschenia,scaber,Parsca,Leatherjacket,336,20,200,Leatherjacket,NA
-Monacanthidae,Thamnaconus,analis,Thaana,Morse code/Darkvent leatherjacket,223,46,360,Morse code/Darkvent leatherjacket,NA
-Ostraciidae,Ostracion,cubicus,Ostcub,Yellow boxfish,450,1,280,Yellow boxfish,Te Papa says cubicus; fishbase says cubica
-Tetraodontidae,Canthigaster,callisterna,Cancal,Clown toado,170,NA,250,Clown toado,NA
-Zeidae,Zeus,faber,Zeufab,John dory,900,5,400,John dory,NA
+!Family,Genus,Species,Code,CommonName,Size,MinDepth,MaxDepth,TaxonomicNotes
+Myxinidae,Eptatretus,cirrhatus,Eptcir,Hagfish,970,0,1100,NA
+Carcharhinidae,Carcharhinus,brachyurus,Carbra,Bronze whaler shark,3300,0,360,NA
+Carcharhinidae,Carcharhinus,galapagensis,Cargal,Galapagos shark,3700,1,286,NA
+Scyliorhinidae,Cephaloscyllium,isabellum,Cepisa,Carpet shark,905,5,690,Changed from C. isabella; source: Te Papa; fishbase says isabella
+Triakidae,Galeorhinus,galeus,Galgal,School shark,1750,0,1100,NA
+Triakidae,Mustelus,lenticulatus,Muslen,Rig,NA,NA,NA,NA
+Hexanchidae,Notorynchus,cepedianus,Notcep,Broadsnout sevengill,NA,NA,NA,NA
+Dasyatidae,Bathytoshia,brevicaudata,Dasbre,Short-tailed stingray,4300,0,476,Changed from ""Dasyatis brev""; source fishbase
+Dasyatidae,Bathytoshia,lata,Dasthe,Long-tailed stingray,3300,0,440,Changed from ""Dasyatis thetidis""; source fishbase
+Myliobatidae,Myliobatis,tenuicaudatus,Mylten,Eagle ray,1050,0,160,Corrected from ""Myliobatus""
+Rajidae,Dipturus,nasutus,Dipnas,Rough skate,NA,NA,NA,NA
+Rajidae,Dipturus,innominatus,Dipinn,Smooth skate,NA,NA,NA,NA
+Squalidae,Squalus,acanthias,Squaca,Spiny dogfish,1200,0,1460,NA
+Percophidae,Hemerocoetes,monopterygius,Hemmon,Opalfish,NA,NA,NA,NA
+Polyprionidae,Polyprion,oxygeneios,Poloxy,Hapuku,NA,NA,NA,NA
+Congridae,Conger,verreauxi,Conver,Common conger eel,2000,NA,45,NA
+Congridae,Conger,wilsoni,Conwil,Northern conger eel,904,NA,30,NA
+Muraenidae,Enchelycore,ramosa,Encram,Mosaic moray,1800,NA,NA,NA
+Muraenidae,Gymnothorax,nubilus,Gymnub,Grey moray,820,NA,NA,NA
+Muraenidae,Gymnothorax,obesus,Gymobe,Speckled moray,1720,NA,NA,NA
+Muraenidae,Gymnothorax,porphyreus,Gympor,Lowfin moray,1060,1,40,NA
+Muraenidae,Gymnothorax,prasinus,Gympra,Yellow moray,1500,NA,NA,NA
+Muraenidae,Gymnothorax,prionodon,Gympri,Mottled moray,870,NA,NA,NA
+Synodontidae,Synodus,doaki,Syndoa,Red lizardfish,244,9,260,NA
+Synodontidae,Synodus,similis,Synsim,Lavender lizardfish,185,25,76,NA
+Hemiramphidae,Hyporhamphus,ihi,Hypihi,Garfish/piper,400,NA,NA,NA
+Berycidae,Centroberyx,affinis,Cenaff,Golden snapper,435,10,450,NA
+Holocentridae,Pristilepis,oligolepis,Priris,Unknown leaffish/Rough squirrelfish,252,14,220,NA
+Trachichthyidae,Optivus,elongatus,Optelo,Slender roughy,120,0,70,NA
+Trachichthyidae,Paratrachichthys,trailli,Partra,Common roughy,250,20,500,NA
+Moridae,Lotella,phycis,Lotphy,Beardie,195,NA,NA,NA
+Moridae,Lotella,rhacina,Lotrha,Rock cod,342,10,90,Corrected from ""L. rhacinus""
+Moridae,Pseudophycis,bachus,Psebac,Red cod,650,26,700,NA
+Moridae,Pseudophycis,barbata,Psebar,Southern bastard cod,620,0,300,NA
+Moridae,Pseudophycis,breviuscula,Psebre,Northern bastard codling,151,0,220,NA
+Aplodactylidae,Aplodactylus,arctidens,Aplarc,Marblefish,570,0,40,NA
+Aplodactylidae,Aplodactylus,etheridgii,Apleth,Notch-head marblefish,464,6,20,NA
+Apogonidae,Ostorhinchus,doederleini,Apodoe,Doederlein's cardinalfish,140,0,10,Corrected from ""Apogon""
+Arripidae,Arripis,trutta,Arrtru,Kahawai,890,30,39,NA
+Arripidae,Arripis,xylabion,Arrxyl,Kahawai (Kermadecs),900,NA,NA,NA
+Blenniidae,Cirripectes,alboapicalis,Ciralb,White-dot blenny,155,0,10,NA
+Blenniidae,Parablennius,laticlavius,Parlat,Crested blenny,69,1,3,NA
+Blenniidae,Plagiotremus,tapeinosoma,Platap,Mimic blenny,110,1,45,NA
+Bovichtidae,Bovichtus,variegatus,Bovvar,Thornfish,267,NA,NA,NA
+Callanthiidae,Callanthias,allporti,Calall,Southern splendid perch,260,20,100,NA
+Callanthiidae,Callanthias,australis,Calaus,Northern splendid perch,280,15,365,NA
+Carangidae,Decapterus,koheru,Deckoh,Koheru,370,0,55,NA
+Carangidae,Decapterus,muroadsi,Decmur,Amberstripe scad,450,1,320,NA
+Carangidae,Pseudocaranx,dentex,Pseden,Trevally,827,10,238,NA
+Carangidae,Seriola,lalandi,Serlal,Kingfish,1930,3,825,NA
+Carangidae,Seriola,rivoliana,Serriv,Almaco jack,1570,5,245,NA
+Carangidae,Trachurus,novaezelandiae,Trasp.,Jack mackerel,500,22,500,NA
+Centrolophidae,Seriolella,brama,Serbra,Common warehou,600,22,400,NA
+Chaetodontidae,Amphichaetodon,howensis,Amphow,Lord Howe butterflyfish/coralfish,200,10,150,NA
+Chaetodontidae,Forcipiger,flavissimus,Fcpfla,Longnose butterflyfish,180,2,145,NA
+Cheilodactylidae,Chirodactylus,spectabilis,Chespe,Red moki,700,1,50,Changed from Cheilodactylus; source: Te Papa
+Cheilodactylidae,Goniistius,francisi,Chefra,Blacktip/masked morwong,274,6,88,Changed from Cheilodactylus; source: Te Papa
+Cheilodactylidae,Morwong,ephippium,Cheeph,Painted moki,410,0,250,Changed from Cheilodactylus; source: Te Papa
+Cheilodactylidae,Nemadactylus,douglasii,Nemdou,Porae,600,0,200,NA
+Cheilodactylidae,Nemadactylus,macropterus,Nemmac,Tarakihi,500,22,450,NA
+Cheilodactylidae,Pseudogoniistius,nigripes,Chenig,Magpie perch/morwong,410,NA,65,Changed from Cheilodactylus; source: Te Papa
+Chironemidae,Chironemus,marmoratus,Chimar,Hiwihiwi,400,0,30,NA
+Cirrhitidae,Notocirrhitus,splendens,Cirspl,Splendid hawkfish,250,NA,NA,NA
+Emmelichthyidae,Plagiogeneion,rubiginosum,Plarub,Rubyfish,470,50,600,Corrected from P. -sus
+Gobiidae,Gobiopsis,atrata,Gobatr,New Zealand black goby,85,0,30,NA
+Kyphosidae,Atypichthys,latus,Atylat,Mado,225,NA,NA,NA
+Kyphosidae,Bathystethus,cultratus,Batcul,Grey knifefish,350,NA,NA,NA
+Kyphosidae,Girella,cyanea,Gircya,Bluefish,510,6,NA,NA
+Kyphosidae,Girella,fimbriata,Girfim,Caramel drummer,335,6,NA,NA
+Kyphosidae,Girella,tricuspidata,Girtri,Parore,393,0,20,NA
+Kyphosidae,Kyphosus,bigibbus,Kypbig,Grey/Dark-fin drummer,527,2,NA,NA
+Kyphosidae,Kyphosus,sydneyanus,Kypsyd,Silver drummer,652,1,20,NA
+Kyphosidae,Labracoglossa,nitida,Labnit,Blue knifefish,241,0,NA,NA
+Kyphosidae,Scorpis,lineolata,Scolin,Sweep,363,1,30,NA
+Kyphosidae,Scorpis,violacea,Scovio,Blue maomao,400,0,30,Corrected from ""Scorpis violaceus""
+Labridae,Anampses,caeruleopunctatus,Anacae,Blue-spotted wrasse,420,3,30,NA
+Labridae,Anampses,elegans,Anaele,Elegant wrasse,300,2,35,NA
+Labridae,Bodianus,flavipinnis,Bodfla,Yellowfin pigfish/foxfish,368,157,250,NA
+Labridae,Bodianus,unimaculatus,Bodvul,Red pigfish,375,0,60,NA
+Labridae,Coris,picta,Corpic,Combfish,250,NA,NA,NA
+Labridae,Coris,sandeyeri,Corsan,Sandager's wrasse,327,NA,60,Corrected from ""C. sandageri""
+Labridae,Notolabrus,celidotus,Notcel,Spotty,240,22,145,NA
+Labridae,Notolabrus,cinctus,Notcin,Girdled wrasse,360,40,91,NA
+Labridae,Notolabrus,fucicola,Notfuc,Banded wrasse,500,NA,NA,NA
+Labridae,Notolabrus,inscriptus,Notins,Green wrasse,325,NA,NA,NA
+Labridae,Pseudolabrus,luculentus,Pseluc,Orange wrasse,170,10,50,NA
+Labridae,Pseudolabrus,miles,Psemil,Scarlet wrasse,350,4,40,NA
+Labridae,Suezichthys,arquatus,Suearq,Rainbow slender wrasse,140,13,100,NA
+Labridae,Suezichthys,aylingi,Sueayl,Crimson cleanerfish,130,6,100,NA
+Labridae,Thalassoma,amblycephalum,Thaamb,Blunt-headed/two-tone wrasse,160,1,15,NA
+Labridae,Thalassoma,lutescens,Thalut,Yellow-brown/sunset wrasse,250,1,30,NA
+Labridae,Thalassoma,trilobatum,Thatri,Christmas/ladder wrasse,300,0,10,NA
+Latridae,Latridopsis,ciliaris,Latcil,Blue moki,800,10,NA,NA
+Latridae,Latridopsis,forsteri,Latfor,Copper moki,650,20,160,NA
+Latridae,Latris,lineata,Latlin,Trumpeter,1200,5,400,NA
+Latridae,Mendosoma,lineatum,Menlin,Telescope fish,366,0,20,NA
+Mugilidae,Aldrichetta,forsteri,Aldfor,Yellow-eyed mullet,360,0,50,NA
+Mullidae,Mulloidichthys,vanicolensis,Mulvan,Yellow goatfish,380,1,113,NA
+Mullidae,Parupeneus,ciliatus,Parcil,Whitesaddle goatfish,380,2,91,NA
+Mullidae,Parupeneus,spilurus,Parspi,Blackspot goatfish,272,10,80,Corrected from ""Parupenus""
+Mullidae,Upeneichthys,porosus,Upelin,Goatfish/red mullet,363,5,100,fishbase.org appears to disagree with FONZ and Kim (2002) and has this as U. lineatus. Te Papa insists.
+Nototheniidae,Notothenia,angustata,Notang,Maori chief,470,0,100,NA
+Odacidae,Odax,cyanoallix,Odacya,Blue-finned butterfish,355,NA,16,NA
+Odacidae,Odax,pullus,Odapul,Butterfish,700,NA,NA,NA
+Pempheridae,Pempheris,adspersa,Pemads,Bigeye,170,0,70,NA
+Pempheridae,Pempheris,analis,Pemana,Bronze sweeper/bullseye,170,5,40,NA
+Pentacerotidae,Evistias,acutirostris,Eviacu,Striped boarfish,415,18,193,NA
+Pentacerotidae,Zanclistius,elevatus,Zanele,Long-finned boarfish,350,30,500,NA
+Pentacerotidae,Paristiopterus,labiosus,Parlab,Giant boarfish,900,20,170,NA
+Pinguipedidae,Parapercis,colias,Parcol,Blue cod,600,52,150,NA
+Pomacentridae,Chromis,dispilus,Chrdis,Demoiselle,170,0,60,NA
+Pomacentridae,Chromis,hypsilepis,Chrhyp,Singlespot demoiselle,150,3,46,NA
+Pomacentridae,Chrysiptera,rapanui,Chrrap,Easter/Kermedec damselfish,61,3,38,NA
+Pomacentridae,Parma,alboscapularis,Paralb,Black angelfish,230,5,40,NA
+Pomacentridae,Parma,kermadecensis,Parker,Kermadec scalyfin,221,3,20,NA
+Pomacentridae,Stegastes,fasciolatus,Stefas,Pacific gregory,160,1,30,NA
+Serranidae,Acanthistius,cinctus,Acacin,Yellowbanded perch,450,30,NA,NA
+Serranidae,Aulacocephalus,temminckii,Aultem,Gold-ribbon grouper,350,20,350,Corrected from A. temmincki
+Serranidae,Caesioperca,lepidoptera,Caelep,Butterfly perch,318,10,140,NA
+Serranidae,Caprodon,longimanus,Caplon,Pink maomao,440,0,400,NA
+Serranidae,Epinephelus,daemelii,Epidae,Spotted black grouper,1700,NA,50,NA
+Serranidae,Hypoplectrodes,coronatus,HypspA,Half-banded perch A/eyebrow perch,470,NA,NA,Not in fishbase.org that I can see. FONZ refers to an as-yet-unpublished Roberts paper in Zootaxa with ""south pacific banded perches"" in the title. AKA H. sp. A.
+Serranidae,Hypoplectrodes,dimidius,HypspB,Half-banded perch B,143,NA,NA,Not in fishbase.org that I can see. FONZ refers to an as-yet-unpublished Roberts paper in Zootaxa with ""south pacific banded perches"" in the title. AKA H. sp. B.
+Serranidae,Hypoplectrodes,huntii,Hyphun,Red-banded perch,200,0,100,NA
+Serranidae,Trachypoma,macracanthus,Tramac,Toadstool grouper,300,NA,45,NA
+Sparidae,Chrysophrys,auratus,Pagaur,Snapper,1300,0,200,FONZ has this as ""Chrysophrys auratus""
+Thalasseleotrididae,Grahamichthys,radiata,Grarad,Graham's gudgeon,58,0,50,Te Papa says radiata; fishbase says radiatus
+Thalasseleotrididae,Thalasseleotris,adela,Thasp.,Pygmy sleeper,32.6,1,20,NA
+Tripterygiidae,Bellapiscis,lesleyae,Belles,Mottled twister,65,0,5,NA
+Tripterygiidae,Bellapiscis,medius,Belmed,Twister,85,0,5,NA
+Tripterygiidae,Blennodon,dorsalis,Bledor,Giant triplefin,170,0,8,NA
+Tripterygiidae,Enneapterygius,kermadecensis,Kertri,Kermadec triplefin,33,0,2,NA
+Tripterygiidae,Forsterygion,capito,Gracap,Spotted/Mottled triplefin,91,0,12,NA
+Tripterygiidae,Forsterygion,flavonigrum,Fstfla,Yellow-black triplefin,53,4,110,NA
+Tripterygiidae,Forsterygion,gymnotum,Gragym,Robust triplefin,90,0,7,NA
+Tripterygiidae,Forsterygion,lapillum,Forlap,Common triplefin,84,0,20,NA
+Tripterygiidae,Forsterygion,malcolmi,Formal,Banded triplefin,130,2,35,NA
+Tripterygiidae,Forsterygion,maryannae,Oblmar,Oblique-swimming triplefin,70,1,50,NA
+Tripterygiidae,Forsterygion,nigripenne,Granig,Estuarine triplefin,90,NA,NA,NA
+Tripterygiidae,Forsterygion,varium,Forvar,Variable triplefin,133,0,33,NA
+Tripterygiidae,Gilloblennius,abditus,Gilabd,Obscure triplefin,74,0,10,NA
+Tripterygiidae,Gilloblennius,tripennis,Giltri,Thripenny,113,0,20,NA
+Tripterygiidae,Karalepis,stewarti,Karste,Scaly-headed triplefin,127,0,33,NA
+Tripterygiidae,Notoclinops,caerulepunctus,Notcae,Blue dot triplefin,38,0,40,NA
+Tripterygiidae,Notoclinops,segmentatus,Notseg,Blue-eyed triplefin,47,0,40,NA
+Tripterygiidae,Notoclinops,yaldwyni,Notyal,Yaldwyn's triplefin,55,0,20,NA
+Tripterygiidae,Ruanoho,decemdigitatus,Ruadec,Long-finned triplefin,120,0,6,NA
+Tripterygiidae,Ruanoho,whero,Ruawhe,Spectacled triplefin,102,0,21,NA
+Congiopodidae,Congiopodus,leucopaecilus,Conleu,Pygmy scorpionfish,262,22,222,NA
+Scorpaenidae,Pterois,volitans,Ptevol,Red lionfish,350,2,55,NA
+Scorpaenidae,Scorpaena,cardinalis,Scocar,Northern scorpionfish/Red rock cod,500,0,154,NA
+Scorpaenidae,Scorpaena,papillosa,Scopap,Dwarf/red scorpionfish,220,5,50,NA
+Scorpaenidae,Scorpaenodes,scaber,Scosca,Pygmy scorpionfish,120,3,30,NA
+Sebastidae,Helicolenus,percoides,Helper,Sea perch,430,50,750,NA
+Triglidae,Chelidonichthys,kumu,Chekum,Bluefin gurnard,NA,NA,NA,NA
+Aulostomidae,Aulostomus,chinensis,Aulchi,Chinese trumpetfish,760,3,122,NA
+Syngnathidae,Hippocampus,abdominalis,Hipabd,Seahorse,210,0,104,NA
+Syngnathidae,Solegnathus,spinosissimus,Solspi,Spiny sea dragon,500,114,230,NA
+Syngnathidae,Stigmatopora,macropterygia,Stimac,Smooth pipefish,400,NA,NA,NA
+Diodontidae,Allomycterus,pilatus,Alljac,Porcupinefish,500,40,270,NA
+Monacanthidae,Meuschenia,scaber,Parsca,Leatherjacket,336,20,200,NA
+Monacanthidae,Thamnaconus,analis,Thaana,Morse code/Darkvent leatherjacket,223,46,360,NA
+Ostraciidae,Ostracion,cubicus,Ostcub,Yellow boxfish,450,1,280,Te Papa says cubicus; fishbase says cubica
+Tetraodontidae,Canthigaster,callisterna,Cancal,Clown toado,170,NA,250,NA
+Zeidae,Zeus,faber,Zeufab,John dory,900,5,400,NA

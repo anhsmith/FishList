@@ -24,7 +24,6 @@ tab <- readxl::read_excel(temp_file, sheet = "SpeciesInfo", col_names = T) |>
          Size = `Size(mm)`,
          MinDepth,
          MaxDepth,
-         commonname,
          TaxonomicNotes )
 
 # Check that all codes are unique (should return 0)

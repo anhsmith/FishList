@@ -9,6 +9,8 @@ Hexanchidae	Notorynchus	cepedianus	Notcep
 Dasyatidae	Bathytoshia	brevicaudata	Dasbre
 Dasyatidae	Bathytoshia	lata	Dasthe
 Myliobatidae	Myliobatis	tenuicaudatus	Mylten
+Rajidae	Dipturus	nasutus	Dipnas
+Rajidae	Dipturus	innominatus	Dipinn
 Squalidae	Squalus	acanthias	Squaca
 Percophidae	Hemerocoetes	monopterygius	Hemmon
 Polyprionidae	Polyprion	oxygeneios	Poloxy

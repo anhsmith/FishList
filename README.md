@@ -2,9 +2,11 @@
 
 This is a centralised list of fishes for EventMeasure for my lab.
 
-It was made from the species in https://github.com/anhsmith/DuffyNZReefFish, with some additions. 
+The script 'FishListScript.R' downloads the 'SpeciesInfo' sheet in https://github.com/anhsmith/DuffyNZReefFish/blob/master/DuffyNZReefFishMASTER.xlsx and formats it for EventMeasure. 
 
-The file to be used is MasseySpeciesList.txt. Additional info is in the MasseySpeciesListInfo.csv
+The file to be used in EventMeasure is MasseySpeciesList.txt. Additional info is in the MasseySpeciesListInfo.csv
+
+To add species, I first add them to DuffyNZReefFishMASTER.xlsx, then run FishListScript.R to update the lists in this repo.
 
 The authority used for species names is:
 

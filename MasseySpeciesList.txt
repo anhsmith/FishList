@@ -164,3 +164,4 @@ Monacanthidae	Thamnaconus	analis	Thaana
 Ostraciidae	Ostracion	cubicus	Ostcub
 Tetraodontidae	Canthigaster	callisterna	Cancal
 Zeidae	Zeus	faber	Zeufab
+Palinuridae	Jasus	edwardsii	Jasedw

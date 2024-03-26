@@ -26,9 +26,10 @@ tab <- readxl::read_excel(temp_file, sheet = "SpeciesInfo", col_names = T) |>
          MaxDepth,
          TaxonomicNotes )
 
+
+
 # Check that all codes are unique (should return 0)
 anyDuplicated(tab$Code)
-
 
 # Write all the info to an excel file
 write_csv(tab, file = "MasseySpeciesListInfo.csv",
@@ -37,6 +38,15 @@ write_csv(tab, file = "MasseySpeciesListInfo.csv",
 # Write just family, genus, species, and code to species list file
 tab |>
   select(1:4) |>
+
+  # add inverts
+  rbind(c(
+    '!Family' = 'Palinuridae',
+    'Genus' = 'Jasus',
+    'Species' = 'edwardsii',
+    'Code' = 'Jasedw'
+    )) |>
+
   write.table(sep="\t",
               file = "MasseySpeciesList.txt",
               quote = F,

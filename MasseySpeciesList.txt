@@ -48,7 +48,7 @@ Callanthiidae	Callanthias	allporti	Calall
 Callanthiidae	Callanthias	australis	Calaus
 Carangidae	Decapterus	koheru	Deckoh
 Carangidae	Decapterus	muroadsi	Decmur
-Carangidae	Pseudocaranx	dentex	Pseden
+Carangidae	Pseudocaranx	georgianus	Psegeo
 Carangidae	Seriola	lalandi	Serlal
 Carangidae	Seriola	rivoliana	Serriv
 Carangidae	Trachurus	novaezelandiae	Trasp.
@@ -64,6 +64,8 @@ Cheilodactylidae	Pseudogoniistius	nigripes	Chenig
 Chironemidae	Chironemus	marmoratus	Chimar
 Cirrhitidae	Notocirrhitus	splendens	Cirspl
 Emmelichthyidae	Plagiogeneion	rubiginosum	Plarub
+Gempylidae	Thyrsites	atun	Thyatu
+Gempylidae	Rexea	solandri	Rexsol
 Gobiidae	Gobiopsis	atrata	Gobatr
 Kyphosidae	Atypichthys	latus	Atylat
 Kyphosidae	Bathystethus	cultratus	Batcul
@@ -96,6 +98,7 @@ Latridae	Latridopsis	ciliaris	Latcil
 Latridae	Latridopsis	forsteri	Latfor
 Latridae	Latris	lineata	Latlin
 Latridae	Mendosoma	lineatum	Menlin
+Merlucciidae	Macruronus	novaezelandiae	Macnov
 Mugilidae	Aldrichetta	forsteri	Aldfor
 Mullidae	Mulloidichthys	vanicolensis	Mulvan
 Mullidae	Parupeneus	ciliatus	Parcil

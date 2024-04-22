@@ -48,7 +48,7 @@ Callanthiidae,Callanthias,allporti,Calall,Southern splendid perch,260,20,100,NA
 Callanthiidae,Callanthias,australis,Calaus,Northern splendid perch,280,15,365,NA
 Carangidae,Decapterus,koheru,Deckoh,Koheru,370,0,55,NA
 Carangidae,Decapterus,muroadsi,Decmur,Amberstripe scad,450,1,320,NA
-Carangidae,Pseudocaranx,dentex,Pseden,Trevally,827,10,238,NA
+Carangidae,Pseudocaranx,georgianus,Psegeo,Trevally,827,10,238,NA
 Carangidae,Seriola,lalandi,Serlal,Kingfish,1930,3,825,NA
 Carangidae,Seriola,rivoliana,Serriv,Almaco jack,1570,5,245,NA
 Carangidae,Trachurus,novaezelandiae,Trasp.,Jack mackerel,500,22,500,NA
@@ -64,6 +64,8 @@ Cheilodactylidae,Pseudogoniistius,nigripes,Chenig,Magpie perch/morwong,410,NA,65
 Chironemidae,Chironemus,marmoratus,Chimar,Hiwihiwi,400,0,30,NA
 Cirrhitidae,Notocirrhitus,splendens,Cirspl,Splendid hawkfish,250,NA,NA,NA
 Emmelichthyidae,Plagiogeneion,rubiginosum,Plarub,Rubyfish,470,50,600,Corrected from P. -sus
+Gempylidae,Thyrsites,atun,Thyatu,Barracouta,NA,NA,NA,NA
+Gempylidae,Rexea,solandri,Rexsol,Gemfish,NA,NA,NA,NA
 Gobiidae,Gobiopsis,atrata,Gobatr,New Zealand black goby,85,0,30,NA
 Kyphosidae,Atypichthys,latus,Atylat,Mado,225,NA,NA,NA
 Kyphosidae,Bathystethus,cultratus,Batcul,Grey knifefish,350,NA,NA,NA
@@ -96,6 +98,7 @@ Latridae,Latridopsis,ciliaris,Latcil,Blue moki,800,10,NA,NA
 Latridae,Latridopsis,forsteri,Latfor,Copper moki,650,20,160,NA
 Latridae,Latris,lineata,Latlin,Trumpeter,1200,5,400,NA
 Latridae,Mendosoma,lineatum,Menlin,Telescope fish,366,0,20,NA
+Merlucciidae,Macruronus,novaezelandiae,Macnov,Hoki,NA,NA,NA,NA
 Mugilidae,Aldrichetta,forsteri,Aldfor,Yellow-eyed mullet,360,0,50,NA
 Mullidae,Mulloidichthys,vanicolensis,Mulvan,Yellow goatfish,380,1,113,NA
 Mullidae,Parupeneus,ciliatus,Parcil,Whitesaddle goatfish,380,2,91,NA

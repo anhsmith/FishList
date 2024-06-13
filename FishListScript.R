@@ -47,6 +47,13 @@ tab |>
     'Code' = 'Jasedw'
     )) |>
 
+  rbind(c(
+    '!Family' = 'Octopodidae',
+    'Genus' = 'Macroctopus',
+    'Species' = 'maorum',
+    'Code' = 'Macmao'
+  )) |>
+
   write.table(sep="\t",
               file = "MasseySpeciesList.txt",
               quote = F,

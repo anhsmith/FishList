@@ -39,7 +39,9 @@ write_csv(tab, file = "MasseySpeciesListInfo.csv",
 tab |>
   select(1:4) |>
 
-  # add inverts
+  ## add inverts
+
+  # cray
   rbind(c(
     '!Family' = 'Palinuridae',
     'Genus' = 'Jasus',
@@ -47,6 +49,7 @@ tab |>
     'Code' = 'Jasedw'
     )) |>
 
+  # maori octopus
   rbind(c(
     '!Family' = 'Octopodidae',
     'Genus' = 'Macroctopus',
@@ -54,7 +57,15 @@ tab |>
     'Code' = 'Macmao'
   )) |>
 
-  write.table(sep="\t",
+  # black coral
+  rbind(c(
+    '!Family' = 'Myriopathidae',
+    'Genus' = 'Antipathella',
+    'Species' = 'fiordensis',
+    'Code' = 'Antfio'
+  )) |>
+
+    write.table(sep="\t",
               file = "MasseySpeciesList.txt",
               quote = F,
               row.names = F)

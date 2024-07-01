@@ -63,6 +63,7 @@ Cheilodactylidae	Nemadactylus	macropterus	Nemmac
 Cheilodactylidae	Pseudogoniistius	nigripes	Chenig
 Chironemidae	Chironemus	marmoratus	Chimar
 Cirrhitidae	Notocirrhitus	splendens	Cirspl
+Emmelichthyidae	Emmelichthys	nitidus	Emmnit
 Emmelichthyidae	Plagiogeneion	rubiginosum	Plarub
 Gempylidae	Thyrsites	atun	Thyatu
 Gempylidae	Rexea	solandri	Rexsol

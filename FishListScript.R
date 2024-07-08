@@ -32,7 +32,7 @@ tab <- readxl::read_excel(temp_file, sheet = "SpeciesInfo", col_names = T) |>
 anyDuplicated(tab$Code)
 
 # Write all the info to an excel file
-write_csv(tab, file = "MasseySpeciesListInfo.csv",
+write_csv(tab, file = "SpeciesListInfo.csv",
                 quote = "none")
 
 # Write just family, genus, species, and code to species list file
@@ -66,7 +66,7 @@ tab |>
   )) |>
 
     write.table(sep="\t",
-              file = "MasseySpeciesList.txt",
+              file = "SpeciesList.txt",
               quote = F,
               row.names = F)
 

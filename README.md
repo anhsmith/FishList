@@ -2,7 +2,7 @@
 
 This is a centralised list of fishes for EventMeasure for my lab.
 
-The file to be used in EventMeasure is MasseySpeciesList.txt. Additional info is in the MasseySpeciesListInfo.csv
+The file to be used in EventMeasure is _SpeciesList.txt_. Additional info is in the _SpeciesListInfo.csv_
 
 The script 'FishListScript.R' downloads the 'SpeciesInfo' sheet in https://github.com/anhsmith/DuffyNZReefFish/blob/master/DuffyNZReefFishMASTER.xlsx and formats it for EventMeasure. 
 

@@ -113,8 +113,10 @@ Pempheridae	Pempheris	analis	Pemana
 Pentacerotidae	Evistias	acutirostris	Eviacu
 Pentacerotidae	Zanclistius	elevatus	Zanele
 Pentacerotidae	Paristiopterus	labiosus	Parlab
+Pinguipedidae	Parapercis	binivirgata	Parbin
 Pinguipedidae	Parapercis	colias	Parcol
 Pinguipedidae	Parapercis	gilliesii	Pargil
+Pinguipedidae	Parapercis	nigrodorsalis	Parnig
 Pomacentridae	Chromis	dispilus	Chrdis
 Pomacentridae	Chromis	hypsilepis	Chrhyp
 Pomacentridae	Chrysiptera	rapanui	Chrrap

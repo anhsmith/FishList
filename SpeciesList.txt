@@ -114,6 +114,7 @@ Pentacerotidae	Evistias	acutirostris	Eviacu
 Pentacerotidae	Zanclistius	elevatus	Zanele
 Pentacerotidae	Paristiopterus	labiosus	Parlab
 Pinguipedidae	Parapercis	colias	Parcol
+Pinguipedidae	Parapercis	gilliesii	Pargil
 Pomacentridae	Chromis	dispilus	Chrdis
 Pomacentridae	Chromis	hypsilepis	Chrhyp
 Pomacentridae	Chrysiptera	rapanui	Chrrap

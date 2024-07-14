@@ -132,6 +132,7 @@ Serranidae	Hypoplectrodes	coronatus	HypspA
 Serranidae	Hypoplectrodes	dimidius	HypspB
 Serranidae	Hypoplectrodes	huntii	Hyphun
 Serranidae	Trachypoma	macracanthus	Tramac
+Serranidae	Plectranthias	maculicauda	Plemac
 Sparidae	Chrysophrys	auratus	Pagaur
 Thalasseleotrididae	Grahamichthys	radiata	Grarad
 Thalasseleotrididae	Thalasseleotris	adela	Thasp.

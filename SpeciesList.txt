@@ -6,6 +6,7 @@ Scyliorhinidae	Cephaloscyllium	isabellum	Cepisa
 Triakidae	Galeorhinus	galeus	Galgal
 Triakidae	Mustelus	lenticulatus	Muslen
 Hexanchidae	Notorynchus	cepedianus	Notcep
+Lamnidae	Carcharodon	carcharias	Carcar
 Dasyatidae	Bathytoshia	brevicaudata	Dasbre
 Dasyatidae	Bathytoshia	lata	Dasthe
 Myliobatidae	Myliobatis	tenuicaudatus	Mylten

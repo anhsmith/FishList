@@ -5,6 +5,7 @@ Carcharhinidae	Carcharhinus	galapagensis	Cargal
 Scyliorhinidae	Cephaloscyllium	isabellum	Cepisa
 Triakidae	Galeorhinus	galeus	Galgal
 Triakidae	Mustelus	lenticulatus	Muslen
+Galeocerdonidae	Galeocerdo	cuvier	Galcuv
 Hexanchidae	Notorynchus	cepedianus	Notcep
 Lamnidae	Carcharodon	carcharias	Carcar
 Dasyatidae	Bathytoshia	brevicaudata	Dasbre

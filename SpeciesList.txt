@@ -25,6 +25,7 @@ Muraenidae	Gymnothorax	obesus	Gymobe
 Muraenidae	Gymnothorax	porphyreus	Gympor
 Muraenidae	Gymnothorax	prasinus	Gympra
 Muraenidae	Gymnothorax	prionodon	Gympri
+Ophichthidae	Ophisurus	serpens	Ophser
 Synodontidae	Synodus	doaki	Syndoa
 Synodontidae	Synodus	similis	Synsim
 Hemiramphidae	Hyporhamphus	ihi	Hypihi
@@ -48,6 +49,7 @@ Blenniidae	Plagiotremus	tapeinosoma	Platap
 Bovichtidae	Bovichtus	variegatus	Bovvar
 Callanthiidae	Callanthias	allporti	Calall
 Callanthiidae	Callanthias	australis	Calaus
+Cepolidae	Cepola	haastii	Cephaa
 Carangidae	Decapterus	koheru	Deckoh
 Carangidae	Decapterus	muroadsi	Decmur
 Carangidae	Pseudocaranx	georgianus	Psegeo

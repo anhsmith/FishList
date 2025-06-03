@@ -9,7 +9,7 @@ Galeocerdonidae	Galeocerdo	cuvier	Galcuv
 Hexanchidae	Notorynchus	cepedianus	Notcep
 Lamnidae	Carcharhinus	obscurus	Carobs
 Lamnidae	Carcharodon	carcharias	Carcar
-Lamnidae	Isurus	oxyrhincus	Isuoxy
+Lamnidae	Isurus	oxyrinchus	Isuoxy
 Lamnidae	Lamna	nasus	Lamnas
 Dasyatidae	Bathytoshia	brevicaudata	Dasbre
 Dasyatidae	Bathytoshia	lata	Dasthe

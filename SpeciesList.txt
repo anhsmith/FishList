@@ -7,7 +7,10 @@ Triakidae	Galeorhinus	galeus	Galgal
 Triakidae	Mustelus	lenticulatus	Muslen
 Galeocerdonidae	Galeocerdo	cuvier	Galcuv
 Hexanchidae	Notorynchus	cepedianus	Notcep
+Lamnidae	Carcharhinus	obscurus	Carobs
 Lamnidae	Carcharodon	carcharias	Carcar
+Lamnidae	Isurus	oxyrhincus	Isuoxy
+Lamnidae	Lamna	nasus	Lamnas
 Dasyatidae	Bathytoshia	brevicaudata	Dasbre
 Dasyatidae	Bathytoshia	lata	Dasthe
 Myliobatidae	Myliobatis	tenuicaudatus	Mylten

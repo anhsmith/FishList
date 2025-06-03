@@ -76,4 +76,3 @@ tab |>
 # cbind(tab$genusspecies,
 #       vnfb,
 #       tab$genusspecies==vnfb), file = "outfish.csv")
-

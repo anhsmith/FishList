@@ -124,6 +124,7 @@ Pinguipedidae	Parapercis	binivirgata	Parbin
 Pinguipedidae	Parapercis	colias	Parcol
 Pinguipedidae	Parapercis	gilliesii	Pargil
 Pinguipedidae	Parapercis	nigrodorsalis	Parnig
+Pomacentridae	Chromis	abyssicola	Chraby
 Pomacentridae	Chromis	dispilus	Chrdis
 Pomacentridae	Chromis	hypsilepis	Chrhyp
 Pomacentridae	Chrysiptera	rapanui	Chrrap

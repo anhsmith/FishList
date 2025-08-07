@@ -4,6 +4,7 @@ Carcharhinidae	Carcharhinus	brachyurus	Carbra
 Carcharhinidae	Carcharhinus	galapagensis	Cargal
 Carcharhinidae	Carcharhinus	obscurus	Carobs
 Scyliorhinidae	Cephaloscyllium	isabellum	Cepisa
+Sphyrnidae	Sphyrna	zygaena	Sphzyg
 Triakidae	Galeorhinus	galeus	Galgal
 Triakidae	Mustelus	lenticulatus	Muslen
 Galeocerdonidae	Galeocerdo	cuvier	Galcuv

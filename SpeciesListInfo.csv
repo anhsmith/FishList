@@ -83,9 +83,9 @@ Kyphosidae,Girella,fimbriata,Girfim,Caramel drummer,335,6,NA,NA
 Kyphosidae,Girella,tricuspidata,Girtri,Parore,393,0,20,NA
 Kyphosidae,Kyphosus,bigibbus,Kypbig,Grey/Dark-fin drummer,527,2,NA,NA
 Kyphosidae,Kyphosus,sydneyanus,Kypsyd,Silver drummer,652,1,20,NA
-Kyphosidae,Labracoglossa,nitida,Labnit,Blue knifefish,241,0,NA,NA
-Kyphosidae,Scorpis,lineolata,Scolin,Sweep,363,1,30,NA
-Kyphosidae,Scorpis,violacea,Scovio,Blue maomao,400,0,30,Corrected from ""Scorpis violaceus""
+Scorpididae,Labracoglossa,nitida,Labnit,Blue knifefish,241,0,NA,NA
+Scorpididae,Scorpis,lineolata,Scolin,Sweep,363,1,30,NA
+Scorpididae,Scorpis,violacea,Scovio,Blue maomao,400,0,30,Corrected from ""Scorpis violaceus""
 Labridae,Anampses,caeruleopunctatus,Anacae,Blue-spotted wrasse,420,3,30,NA
 Labridae,Anampses,elegans,Anaele,Elegant wrasse,300,2,35,NA
 Labridae,Bodianus,flavipinnis,Bodfla,Yellowfin pigfish/foxfish,368,157,250,NA

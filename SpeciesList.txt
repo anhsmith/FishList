@@ -83,9 +83,9 @@ Kyphosidae	Girella	fimbriata	Girfim
 Kyphosidae	Girella	tricuspidata	Girtri
 Kyphosidae	Kyphosus	bigibbus	Kypbig
 Kyphosidae	Kyphosus	sydneyanus	Kypsyd
-Kyphosidae	Labracoglossa	nitida	Labnit
-Kyphosidae	Scorpis	lineolata	Scolin
-Kyphosidae	Scorpis	violacea	Scovio
+Scorpididae	Labracoglossa	nitida	Labnit
+Scorpididae	Scorpis	lineolata	Scolin
+Scorpididae	Scorpis	violacea	Scovio
 Labridae	Anampses	caeruleopunctatus	Anacae
 Labridae	Anampses	elegans	Anaele
 Labridae	Bodianus	flavipinnis	Bodfla
